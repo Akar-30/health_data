@@ -1,2 +1,3 @@
-*.csv
 .venv/
+raw_data/
+combined_lab_testsV5.csv

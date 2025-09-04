@@ -1,0 +1,880 @@
+Result,Standard Test Name,Outcome
+.,1-Hour Glucose,n
+.,2-Hour Glucose,n
+> 1100,Albumin-to-Creatinine Ratio,an
+< 0.75,Alpha-Fetoprotein,n
+< 3,Anti-Cardiolipin IgG,n
+< 0.1,Anti-Cyclic Citrullinated Peptide,n
+< 1,Anti-Cyclic Citrullinated Peptide,n
+< 1.0,Anti-Cyclic Citrullinated Peptide,n
+<1.0,Anti-Cyclic Citrullinated Peptide,n
+>100,Anti-Cyclic Citrullinated Peptide,an
+< 3,Anti-Myeloperoxidase Antibody (p-ANCA),n
+< 0.1,Anti-MÃ¼llerian Hormone,n
+< 0.10,Anti-MÃ¼llerian Hormone,n
+<0.1,Anti-MÃ¼llerian Hormone,n
+< 3,Anti-Proteinase 3 Antibody (c-ANCA),n
+< 3,Anti-SSA/Ro Antibody,n
+> 200,Anti-SSA/Ro Antibody,n
+Negative,Anti-Streptolysin O,n
+Negative  -Ve,Anti-Streptolysin O,n
+Negative (-ve),Anti-Streptolysin O,n
+Negative - ve,Anti-Streptolysin O,n
+Negative -Ve,Anti-Streptolysin O,n
+Negative -ve,Anti-Streptolysin O,n
+Positive,Anti-Streptolysin O,an
+Positive +ve,Anti-Streptolysin O,an
+< 10,Anti-Thyroglobulin Antibody,n
+< 0.8,Anti-Thyroid Peroxidase Antibody,n
+< 5,Anti-Thyroid Peroxidase Antibody,n
+< 5.0,Anti-Thyroid Peroxidase Antibody,n
+<0.8,Anti-Thyroid Peroxidase Antibody,n
+<5,Anti-Thyroid Peroxidase Antibody,n
+<5.0,Anti-Thyroid Peroxidase Antibody,n
+> 1000,Anti-Thyroid Peroxidase Antibody,an
+> 600,Anti-Thyroid Peroxidase Antibody,an
+>1000,Anti-Thyroid Peroxidase Antibody,an
+>600,Anti-Thyroid Peroxidase Antibody,an
+< 10,Anti-dsDNA IgG,n
+< 0.1,Anti-dsDNA IgM,n
+"12,2",Aspartate Aminotransferase (AST),n
+0.1<,Beta-hCG Titer,n
+10000 <,Beta-hCG Titer,n
+< 0.1,Beta-hCG Titer,n
+<0.1,Beta-hCG Titer,n
+<0.10,Beta-hCG Titer,n
+<0.100,Beta-hCG Titer,n
+> 10 000,Beta-hCG Titer,an
+> 10000,Beta-hCG Titer,an
+>0.1,Beta-hCG Titer,n
+">10,000",Beta-hCG Titer,an
+>1000,Beta-hCG Titer,an
+>10000,Beta-hCG Titer,an
+>20000,Beta-hCG Titer,an
+Negative,Beta-hCG Titer,n
+Negative  -Ve,Beta-hCG Titer,n
+Negative -Ve,Beta-hCG Titer,n
+Positive + ve,Beta-hCG Titer,an
+1 00,Bleeding Time,n
+1:00,Bleeding Time,bn
+1:15,Bleeding Time,bn
+1:30,Bleeding Time,bn
+1:45,Bleeding Time,bn
+2:00,Bleeding Time,n
+2:15,Bleeding Time,n
+2:30,Bleeding Time,n
+3:00,Bleeding Time,n
+3:30,Bleeding Time,n
+4:00,Bleeding Time,n
+4:30,Bleeding Time,n
+5:30,Bleeding Time,n
+6:30,Bleeding Time,n
+A   Positive  +Ve,Blood Group and Rh Factor,n
+A   Positive +Ve,Blood Group and Rh Factor,n
+A  - ve,Blood Group and Rh Factor,n
+A  Negative  -Ve,Blood Group and Rh Factor,n
+A  Poistive  +Ve,Blood Group and Rh Factor,n
+A  Positive,Blood Group and Rh Factor,n
+A  Positive   +Ve,Blood Group and Rh Factor,n
+A  Positive  +Ve,Blood Group and Rh Factor,n
+A  Positive +,Blood Group and Rh Factor,n
+A  Positive +Ve,Blood Group and Rh Factor,n
+A  Positive +ve,Blood Group and Rh Factor,n
+A  Positive+Ve,Blood Group and Rh Factor,n
+A  Possitive +Ve,Blood Group and Rh Factor,n
+A (Positive) +ve,Blood Group and Rh Factor,n
+A (Positive)+ve,Blood Group and Rh Factor,n
+A (negative)-ve,Blood Group and Rh Factor,n
+A +,Blood Group and Rh Factor,n
+A + Positive,Blood Group and Rh Factor,n
+A + Ve,Blood Group and Rh Factor,n
+A + ve,Blood Group and Rh Factor,n
+A +Positive,Blood Group and Rh Factor,n
+A +Positiveve,Blood Group and Rh Factor,n
+A +Ve,Blood Group and Rh Factor,n
+A +Ve Possitive,Blood Group and Rh Factor,n
+A +ve,Blood Group and Rh Factor,n
+A +ve Possitive,Blood Group and Rh Factor,n
+A - Negative,Blood Group and Rh Factor,n
+A - ve,Blood Group and Rh Factor,n
+A -Negative,Blood Group and Rh Factor,n
+A -Ve Negative,Blood Group and Rh Factor,n
+A -ve,Blood Group and Rh Factor,n
+A Negative,Blood Group and Rh Factor,n
+A Negative  -Ve,Blood Group and Rh Factor,n
+A Negative -Ve,Blood Group and Rh Factor,n
+A Negative -ve,Blood Group and Rh Factor,n
+A Posetive  +ve,Blood Group and Rh Factor,n
+A Positive,Blood Group and Rh Factor,n
+A Positive  +Ve,Blood Group and Rh Factor,n
+A Positive  +ve,Blood Group and Rh Factor,n
+A Positive +Ve,Blood Group and Rh Factor,n
+A Positive +ve,Blood Group and Rh Factor,n
+A Possitive  +Ve,Blood Group and Rh Factor,n
+A positive,Blood Group and Rh Factor,n
+A positive +ve,Blood Group and Rh Factor,n
+A(Negative)-ve,Blood Group and Rh Factor,n
+A+,Blood Group and Rh Factor,n
+A+ Positive,Blood Group and Rh Factor,n
+A+ positive,Blood Group and Rh Factor,n
+A+ possitive,Blood Group and Rh Factor,n
+A+ ve,Blood Group and Rh Factor,n
+A+Positive,Blood Group and Rh Factor,n
+A+VE,Blood Group and Rh Factor,n
+A+Ve,Blood Group and Rh Factor,n
+A+Ve  Possitive,Blood Group and Rh Factor,n
+A+Ve Possitive,Blood Group and Rh Factor,n
+A+Ve positive,Blood Group and Rh Factor,n
+A+ve,Blood Group and Rh Factor,n
+A- VE,Blood Group and Rh Factor,n
+A- ve,Blood Group and Rh Factor,n
+AB   Positive,Blood Group and Rh Factor,n
+AB  Negative -ve,Blood Group and Rh Factor,n
+AB  Positive,Blood Group and Rh Factor,n
+AB  Positive  +Ve,Blood Group and Rh Factor,n
+AB  Positive +Ve,Blood Group and Rh Factor,n
+AB  Positve  +Ve,Blood Group and Rh Factor,n
+AB (Positive) +ve,Blood Group and Rh Factor,n
+AB + ve,Blood Group and Rh Factor,n
+AB +Positive,Blood Group and Rh Factor,n
+AB +VE,Blood Group and Rh Factor,n
+AB +Ve,Blood Group and Rh Factor,n
+AB +Ve possitive,Blood Group and Rh Factor,n
+AB +ve,Blood Group and Rh Factor,n
+AB Negative,Blood Group and Rh Factor,n
+AB Negative  -Ve,Blood Group and Rh Factor,n
+AB Negative -v,Blood Group and Rh Factor,n
+AB Negative -ve,Blood Group and Rh Factor,n
+AB Positive,Blood Group and Rh Factor,n
+AB Positive  +Ve,Blood Group and Rh Factor,n
+AB Positive  +ve,Blood Group and Rh Factor,n
+AB Positive +Ve,Blood Group and Rh Factor,n
+AB Positive +ve,Blood Group and Rh Factor,n
+AB positive,Blood Group and Rh Factor,n
+AB(positive) +ve,Blood Group and Rh Factor,n
+AB+,Blood Group and Rh Factor,n
+AB+ Positive,Blood Group and Rh Factor,n
+AB+Positive,Blood Group and Rh Factor,n
+AB+Ve,Blood Group and Rh Factor,n
+AB+ve,Blood Group and Rh Factor,n
+AB- negative,Blood Group and Rh Factor,n
+Ab Negative -Ve,Blood Group and Rh Factor,n
+B   Positive +ve,Blood Group and Rh Factor,n
+B  +ve,Blood Group and Rh Factor,n
+B  Negative  -Ve,Blood Group and Rh Factor,n
+B  Positive  +Ve,Blood Group and Rh Factor,n
+B  Positive +Ve,Blood Group and Rh Factor,n
+B  Positive +ve,Blood Group and Rh Factor,n
+B (Positive) +ve,Blood Group and Rh Factor,n
+B + Positive,Blood Group and Rh Factor,n
+B + ve,Blood Group and Rh Factor,n
+B +Positive,Blood Group and Rh Factor,n
+B +Positive +Ve,Blood Group and Rh Factor,n
+B +Ve,Blood Group and Rh Factor,n
+B +Ve  Positive,Blood Group and Rh Factor,n
+B +Ve  Possitive,Blood Group and Rh Factor,n
+B +Ve Possitive,Blood Group and Rh Factor,n
+B +ve,Blood Group and Rh Factor,n
+B - Negative,Blood Group and Rh Factor,n
+B - ve,Blood Group and Rh Factor,n
+B -Negative,Blood Group and Rh Factor,n
+B -Ve Negative,Blood Group and Rh Factor,n
+B -ve,Blood Group and Rh Factor,n
+B Negative,Blood Group and Rh Factor,n
+B Negative  -Ve,Blood Group and Rh Factor,n
+B Negative -Ve,Blood Group and Rh Factor,n
+B Negative -ve,Blood Group and Rh Factor,n
+B Posetive +Ve,Blood Group and Rh Factor,n
+B Posetive +ve,Blood Group and Rh Factor,n
+B Positive,Blood Group and Rh Factor,n
+B Positive  +Ve,Blood Group and Rh Factor,n
+B Positive  +ve,Blood Group and Rh Factor,n
+B Positive +Ve,Blood Group and Rh Factor,n
+B Positive +ve,Blood Group and Rh Factor,n
+B Postive  +Ve,Blood Group and Rh Factor,n
+B posetive,Blood Group and Rh Factor,n
+B positive,Blood Group and Rh Factor,n
+B positive +ve,Blood Group and Rh Factor,n
+B(Positive)+ve,Blood Group and Rh Factor,n
+B+,Blood Group and Rh Factor,n
+B+ ( positive ),Blood Group and Rh Factor,n
+B+ Posetive,Blood Group and Rh Factor,n
+B+ Positive,Blood Group and Rh Factor,n
+B+ VE,Blood Group and Rh Factor,n
+B+ positive,Blood Group and Rh Factor,n
+B+ ve,Blood Group and Rh Factor,n
+B+Positive,Blood Group and Rh Factor,n
+B+VE,Blood Group and Rh Factor,n
+B+Ve Possitive,Blood Group and Rh Factor,n
+B+ve,Blood Group and Rh Factor,n
+B- negative,Blood Group and Rh Factor,n
+O  + ve,Blood Group and Rh Factor,n
+O  Negative  -Ve,Blood Group and Rh Factor,n
+O  Positive,Blood Group and Rh Factor,n
+O  Positive  +Ve,Blood Group and Rh Factor,n
+O  Positive  +ve,Blood Group and Rh Factor,n
+O  Positive +Ve,Blood Group and Rh Factor,n
+O (+ve),Blood Group and Rh Factor,n
+O (Negative) -ve,Blood Group and Rh Factor,n
+O (Positive) +ve,Blood Group and Rh Factor,n
+O (positive) +ve,Blood Group and Rh Factor,n
+O + ve,Blood Group and Rh Factor,n
+O +Positive,Blood Group and Rh Factor,n
+O +Ve,Blood Group and Rh Factor,n
+O +Ve Possitive,Blood Group and Rh Factor,n
+O +ve,Blood Group and Rh Factor,n
+O +ve  Positive,Blood Group and Rh Factor,n
+O +ve Positive,Blood Group and Rh Factor,n
+O +ve Possitive,Blood Group and Rh Factor,n
+O - Negative,Blood Group and Rh Factor,n
+O - Ve,Blood Group and Rh Factor,n
+O - ve,Blood Group and Rh Factor,n
+O -Negative,Blood Group and Rh Factor,n
+O -ve,Blood Group and Rh Factor,n
+O Negative,Blood Group and Rh Factor,n
+O Negative  -Ve,Blood Group and Rh Factor,n
+O Negative -Ve,Blood Group and Rh Factor,n
+O Negative -ve,Blood Group and Rh Factor,n
+O Posative +VE,Blood Group and Rh Factor,n
+O Positive,Blood Group and Rh Factor,n
+O Positive  +Ve,Blood Group and Rh Factor,n
+O Positive  +ve,Blood Group and Rh Factor,n
+O Positive +Ve,Blood Group and Rh Factor,n
+O Positive +ve,Blood Group and Rh Factor,n
+O Postive +ve,Blood Group and Rh Factor,n
+O positive,Blood Group and Rh Factor,n
+O positive +ve,Blood Group and Rh Factor,n
+O+,Blood Group and Rh Factor,n
+O+ Positive,Blood Group and Rh Factor,n
+O+ VE,Blood Group and Rh Factor,n
+O+ positive,Blood Group and Rh Factor,n
+O+ possitive,Blood Group and Rh Factor,n
+O+ ve,Blood Group and Rh Factor,n
+O+Positive,Blood Group and Rh Factor,n
+O+Ve  Possitive,Blood Group and Rh Factor,n
+O+Ve Possitive,Blood Group and Rh Factor,n
+O+ve,Blood Group and Rh Factor,n
+O-ve,Blood Group and Rh Factor,n
+O-ve negative,Blood Group and Rh Factor,n
+ON  Positive  +Ve,Blood Group and Rh Factor,n
+Positive,Blood Group and Rh Factor,n
+o+ positive,Blood Group and Rh Factor,n
+o+ ve,Blood Group and Rh Factor,n
+positive B +ve,Blood Group and Rh Factor,n
+> 600,Blood Sugar,n
+attach,Blood Sugar,n
+120..52,Blood Urea Nitrogen,n
+28.;91,Blood Urea Nitrogen,n
+31`.43,Blood Urea Nitrogen,n
+#NAME?,Brucella,n
+1/640 positive + ve,Brucella,an
+Negative,Brucella,n
+Negative  -Ve,Brucella,n
+Negative (-ve),Brucella,n
+Negative - Ve,Brucella,n
+Negative - ve,Brucella,n
+Negative -Ve,Brucella,n
+Negative -ve,Brucella,n
+Negative-Ve,Brucella,n
+Positive,Brucella,an
+Positive  +Ve,Brucella,an
+Positive + ve,Brucella,an
+Positive +Ve,Brucella,an
+Positive +ve,Brucella,an
+Weak Positive,Brucella,an
+negative,Brucella,n
+negative - ve,Brucella,n
+negative -ve,Brucella,n
+positive + ve 1/640,Brucella,an
+positive 1/180,Brucella,an
+Negativ  -ve,C-Reactive Protein,n
+Negative,C-Reactive Protein,n
+Negative    -Ve,C-Reactive Protein,n
+Negative   -Ve,C-Reactive Protein,n
+Negative   -ve,C-Reactive Protein,n
+Negative  -Ve,C-Reactive Protein,n
+Negative  -ve,C-Reactive Protein,n
+Negative -Ve,C-Reactive Protein,n
+Negative -ve,C-Reactive Protein,n
+Negative-ve,C-Reactive Protein,n
+Positive,C-Reactive Protein,an
+Positive    +Ve,C-Reactive Protein,an
+Positive  +Ve,C-Reactive Protein,an
+Positive  +ve,C-Reactive Protein,an
+Positive +Ve,C-Reactive Protein,an
+Positive +ve,C-Reactive Protein,an
+Possiotive,C-Reactive Protein,n
+Possitive  +Ve,C-Reactive Protein,an
+negative,C-Reactive Protein,n
+negative  -Ve,C-Reactive Protein,n
+negative-ve,C-Reactive Protein,n
+Negative,C-Reactive Protein Titer,n
+Negative  -Ve,C-Reactive Protein Titer,n
+Negative -Ve,C-Reactive Protein Titer,n
+Negative -ve,C-Reactive Protein Titer,n
+< 0.6,CA 19-9,n
+Negative  -Ve,COVID-19 Antigen,n
+Negative - ve,COVID-19 Antigen,n
+Positive  +Ve,COVID-19 IgG Rapid Test,n
+Positive + ve,COVID-19 IgG Rapid Test,n
+Weak Positive + ve,COVID-19 IgG Rapid Test,n
+positive,COVID-19 IgG Rapid Test,n
+37.7  Reactiv,COVID-19 IgG Spike,n
+Positive + ve,COVID-19 IgG Spike,n
+Negative,COVID-19 IgM Rapid Test,n
+Negative  -Ve,COVID-19 IgM Rapid Test,n
+Negative - ve,COVID-19 IgM Rapid Test,n
+0.2  No Reactive,COVID-19 IgM Spike,an
+Negative - ve,COVID-19 IgM Spike,n
+< 0.2,Carcinoembryonic Antigen,n
+`196,Chloride,an
+1:00,Clotting Time,bn
+1:30,Clotting Time,bn
+2:00,Clotting Time,bn
+2:30,Clotting Time,bn
+3:00,Clotting Time,bn
+3:30,Clotting Time,bn
+4:00,Clotting Time,bn
+4:30,Clotting Time,bn
+5:00,Clotting Time,n
+6:00,Clotting Time,n
+ATTACH,Complete Blood Count,n
+ATTACHED,Complete Blood Count,n
+ATTAHED,Complete Blood Count,n
+Aattached,Complete Blood Count,n
+Arttach,Complete Blood Count,n
+Atacched,Complete Blood Count,n
+Atached,Complete Blood Count,n
+Atacid,Complete Blood Count,n
+Attaced,Complete Blood Count,n
+Attach,Complete Blood Count,n
+Attachd,Complete Blood Count,n
+Attache,Complete Blood Count,n
+Attached,Complete Blood Count,n
+Attachede,Complete Blood Count,n
+Attacheed,Complete Blood Count,n
+Attachid,Complete Blood Count,n
+Attaed,Complete Blood Count,n
+Attched,Complete Blood Count,n
+Attqached,Complete Blood Count,n
+Atttached,Complete Blood Count,n
+asttach,Complete Blood Count,n
+atach,Complete Blood Count,n
+atached,Complete Blood Count,n
+attac,Complete Blood Count,n
+attacahed,Complete Blood Count,n
+attaced,Complete Blood Count,n
+attacgh,Complete Blood Count,n
+attach,Complete Blood Count,n
+attachd,Complete Blood Count,n
+attache,Complete Blood Count,n
+attached,Complete Blood Count,n
+attaches,Complete Blood Count,n
+attachid,Complete Blood Count,n
+attah,Complete Blood Count,n
+attahed,Complete Blood Count,n
+attch,Complete Blood Count,n
+attched,Complete Blood Count,n
+attchid,Complete Blood Count,n
+atttached,Complete Blood Count,n
+ayttach,Complete Blood Count,n
+ttach,Complete Blood Count,n
+>1750,Cortisol,n
+> 2000,Creatine Phosphokinase,n
+Positive  +Ve,Cytomegalovirus IgG Rapid Test,an
+Negative -Ve,Cytomegalovirus IgM Rapid Test,n
+< 0.1,D-Dimer,n
+<0.1,D-Dimer,n
+> 20,D-Dimer,an
+> 20.0,D-Dimer,an
+>20,D-Dimer,an
+>20.0,D-Dimer,an
+Negative,Direct Coombs Test,n
+Negative  - Ve,Direct Coombs Test,n
+Negative  -Ve,Direct Coombs Test,n
+Negative - ve,Direct Coombs Test,n
+Negative -Ve,Direct Coombs Test,n
+Negative -ve,Direct Coombs Test,n
+< 5,Estradiol (E2),bn
+< 5.0,Estradiol (E2),bn
+<5,Estradiol (E2),bn
+<5.0,Estradiol (E2),bn
+> 60,Fecal Calprotectein,an
+>60,Fecal Calprotectein,an
+#NAME?,Fecal Occult Blood,n
+<7.5,Fecal Occult Blood,n
+Negatie - ve,Fecal Occult Blood,n
+Negative,Fecal Occult Blood,n
+Negative  - ve,Fecal Occult Blood,n
+Negative  -Ve,Fecal Occult Blood,n
+Negative (-ve),Fecal Occult Blood,n
+Negative - ve,Fecal Occult Blood,n
+Negative -Ve,Fecal Occult Blood,n
+Negative -ve,Fecal Occult Blood,n
+Negtive - ve,Fecal Occult Blood,n
+Posative +ve,Fecal Occult Blood,an
+Positive,Fecal Occult Blood,an
+Positive  +Ve,Fecal Occult Blood,an
+Positive + ve,Fecal Occult Blood,an
+Positive +Ve,Fecal Occult Blood,an
+Positive +ve,Fecal Occult Blood,an
+Weak Positive,Fecal Occult Blood,an
+Weak Positive +ve,Fecal Occult Blood,an
+negative - ve,Fecal Occult Blood,n
+negative -ve,Fecal Occult Blood,n
+positive + ve,Fecal Occult Blood,an
+positive +ve,Fecal Occult Blood,an
+weak Positive +ve,Fecal Occult Blood,an
+< 7.5,Fecal Occult Blood Titer,n
+<100,Fecal Occult Blood Titer,n
+<6.5,Fecal Occult Blood Titer,n
+<7.5,Fecal Occult Blood Titer,n
+"> 20,000",Fecal Occult Blood Titer,an
+< 0.3,Follicle-Stimulating Hormone,bn
+<0.3,Follicle-Stimulating Hormone,bn
+5..81,Free T3,an
+18..1,Free T4,an
+< 0.005,Free T4,bn
+> 100,Free T4,an
+>100,Free T4,an
+>100.0,Free T4,an
+> 1200,Gamma-Glutamyl Transferase,an
+< 0.01,HIV Antibody,n
+< 0.1,HIV Antibody,n
+Negative,HIV Antibody,n
+Negative (-ve),HIV Antibody,n
+Negative - ve,HIV Antibody,n
+Suspected,HIV Antibody,an
+negative,HIV Antibody,n
+o.27,HIV Antibody,n
+Negative,HLA-B*27 Real-Time PCR,n
+Negative - ve,HLA-B*27 Real-Time PCR,n
+Negative -ve,HLA-B*27 Real-Time PCR,n
+"11,74",HbA1c,n
+"5,88",HbA1c,n
+5.48%,HbA1c,n
+6.56%,HbA1c,n
+Negative,Helicobacter pylori Antibody,n
+Negative  -Ve,Helicobacter pylori Antibody,n
+Negative -Ve,Helicobacter pylori Antibody,n
+Negative -ve,Helicobacter pylori Antibody,n
+Posistive  +Ve,Helicobacter pylori Antibody,an
+Positive,Helicobacter pylori Antibody,an
+Positive   +Ve,Helicobacter pylori Antibody,an
+Positive  +V,Helicobacter pylori Antibody,an
+Positive  +Ve,Helicobacter pylori Antibody,an
+Positive +Ve,Helicobacter pylori Antibody,an
+Positive +ve,Helicobacter pylori Antibody,an
+Possitive  +Ve,Helicobacter pylori Antibody,an
+Waek Positive,Helicobacter pylori Antibody,an
+Weak Positive,Helicobacter pylori Antibody,an
+Weak Positive  +Ve,Helicobacter pylori Antibody,an
+Weak positive,Helicobacter pylori Antibody,an
+negative,Helicobacter pylori Antibody,n
+positive +ve,Helicobacter pylori Antibody,an
+positive+ ve,Helicobacter pylori Antibody,an
+Positive,Helicobacter pylori Antibody Test,an
+<10,Helicobacter pylori Antibody Titer,n
+> 200,Helicobacter pylori Antibody Titer,n
+> 200.0,Helicobacter pylori Antibody Titer,n
+>200,Helicobacter pylori Antibody Titer,n
+Negative  -Ve,Helicobacter pylori Antibody Titer,n
+Negative -Ve,Helicobacter pylori Antibody Titer,n
+#NAME?,Helicobacter pylori Antigen,n
+MNegative  -Ve,Helicobacter pylori Antigen,n
+Negative,Helicobacter pylori Antigen,n
+Negative   -Ve,Helicobacter pylori Antigen,n
+Negative  -Ve,Helicobacter pylori Antigen,n
+Negative  -ve,Helicobacter pylori Antigen,n
+Negative -Ve,Helicobacter pylori Antigen,n
+Negative -ve,Helicobacter pylori Antigen,n
+Positive,Helicobacter pylori Antigen,an
+Positive   +Ve,Helicobacter pylori Antigen,an
+Positive  +Ve,Helicobacter pylori Antigen,an
+Positive +Ve,Helicobacter pylori Antigen,an
+Positive +ve,Helicobacter pylori Antigen,an
+Positivev  +Ve,Helicobacter pylori Antigen,an
+Positve,Helicobacter pylori Antigen,an
+Possiotive  +Ver,Helicobacter pylori Antigen,an
+Possiotive +Ve,Helicobacter pylori Antigen,an
+Possitive  +Ve,Helicobacter pylori Antigen,an
+Possitive +Ve,Helicobacter pylori Antigen,an
+Weak Positive,Helicobacter pylori Antigen,an
+positive,Helicobacter pylori Antigen,an
+weak positive,Helicobacter pylori Antigen,an
+Negative,Helicobacter pylori Antigen Stool Test,n
+Ngative,Helicobacter pylori Antigen Stool Test,n
+Positive,Helicobacter pylori Antigen Stool Test,an
+Weak positive,Helicobacter pylori Antigen Stool Test,an
+#NAME?,Helicobacter pylori Antigen Stool Titer,n
+0.0.6,Helicobacter pylori Antigen Stool Titer,n
+< 0.01,Helicobacter pylori Antigen Stool Titer,n
+<0.01,Helicobacter pylori Antigen Stool Titer,n
+<0.1,Helicobacter pylori Antigen Stool Titer,n
+NEGATIVE -VE,Helicobacter pylori Antigen Stool Titer,n
+Neagtive - ve,Helicobacter pylori Antigen Stool Titer,n
+Negastive - ve,Helicobacter pylori Antigen Stool Titer,n
+Negatie - ve,Helicobacter pylori Antigen Stool Titer,n
+Negativ - ve,Helicobacter pylori Antigen Stool Titer,n
+Negative,Helicobacter pylori Antigen Stool Titer,n
+Negative  - ve,Helicobacter pylori Antigen Stool Titer,n
+Negative  -ve,Helicobacter pylori Antigen Stool Titer,n
+Negative -  ve,Helicobacter pylori Antigen Stool Titer,n
+Negative - ve,Helicobacter pylori Antigen Stool Titer,n
+Negative -Ve,Helicobacter pylori Antigen Stool Titer,n
+Negative -ve,Helicobacter pylori Antigen Stool Titer,n
+Negetive - ve,Helicobacter pylori Antigen Stool Titer,n
+Negive - ve,Helicobacter pylori Antigen Stool Titer,n
+Negstive - ve,Helicobacter pylori Antigen Stool Titer,n
+Negtive - ve,Helicobacter pylori Antigen Stool Titer,n
+Positive,Helicobacter pylori Antigen Stool Titer,an
+Positive + ve,Helicobacter pylori Antigen Stool Titer,an
+Positive +ve,Helicobacter pylori Antigen Stool Titer,an
+Weak Positive + ve,Helicobacter pylori Antigen Stool Titer,an
+Weak Positive +ve,Helicobacter pylori Antigen Stool Titer,an
+Weak positive,Helicobacter pylori Antigen Stool Titer,an
+Weak positive + ve,Helicobacter pylori Antigen Stool Titer,an
+Weak positive +ve,Helicobacter pylori Antigen Stool Titer,an
+nagative - ve,Helicobacter pylori Antigen Stool Titer,n
+negative - ve,Helicobacter pylori Antigen Stool Titer,n
+negative -ve,Helicobacter pylori Antigen Stool Titer,n
+positive + ve,Helicobacter pylori Antigen Stool Titer,an
+positive +ve,Helicobacter pylori Antigen Stool Titer,an
+weak positive + ve,Helicobacter pylori Antigen Stool Titer,an
+weak positive +ve,Helicobacter pylori Antigen Stool Titer,an
+> 100,Helicobacter pylori Antigen Titer,n
+>100,Helicobacter pylori Antigen Titer,n
+Positive +ve,Helicobacter pylori Antigen Titer,an
+Negative - ve,Helicobacter pylori Blood Test,n
+Negative -ve,Helicobacter pylori Blood Test,n
+Negetive (-ve),Helicobacter pylori Blood Test,n
+Positive +  ve,Helicobacter pylori Blood Test,an
+Positive + ve,Helicobacter pylori Blood Test,an
+Positive +ve,Helicobacter pylori Blood Test,an
+#NAME?,Helicobacter pylori IgG,n
+Negative - ve,Hepatitis A IgM,n
+0..29,Hepatitis B Surface Antigen,n
+0..481,Hepatitis B Surface Antigen,n
+6104 Suspected,Hepatitis B Surface Antigen,an
+< 0.01,Hepatitis B Surface Antigen,n
+< 0.1,Hepatitis B Surface Antigen,n
+<0.01,Hepatitis B Surface Antigen,n
+Negative,Hepatitis B Surface Antigen,n
+Negative (-ve),Hepatitis B Surface Antigen,n
+Negative - ve,Hepatitis B Surface Antigen,n
+Suspected positive + ve,Hepatitis B Surface Antigen,an
+negative,Hepatitis B Surface Antigen,n
+0.`2,Hepatitis C Antibody,n
+< 0.05,Hepatitis C Antibody,n
+<0.05,Hepatitis C Antibody,n
+<0.5,Hepatitis C Antibody,n
+Negative,Hepatitis C Antibody,n
+Negative (-ve),Hepatitis C Antibody,n
+Negative - ve,Hepatitis C Antibody,n
+negative,Hepatitis C Antibody,n
+Positive  +Ve,Herpes Simplex Virus I IgG,an
+Negative  -Ve,Herpes Simplex Virus I IgM,n
+< 3,High-Sensitivity Troponin T,n
+< 3.0,High-Sensitivity Troponin T,n
+<3,High-Sensitivity Troponin T,n
+<3.0,High-Sensitivity Troponin T,n
+<3.00,High-Sensitivity Troponin T,n
+>3.00,High-Sensitivity Troponin T,n
+< 7.5,IFOB Titer ( FIT ),n
+<7.5,IFOB Titer ( FIT ),n
+Neagtive - ve,Immunochemical Fecal Occult Blood,n
+Negaive -Ve,Immunochemical Fecal Occult Blood,n
+Negative,Immunochemical Fecal Occult Blood,n
+Negative  - ve,Immunochemical Fecal Occult Blood,n
+Negative  -Ve,Immunochemical Fecal Occult Blood,n
+Negative  -ve,Immunochemical Fecal Occult Blood,n
+Negative (-ve ),Immunochemical Fecal Occult Blood,n
+Negative (-ve),Immunochemical Fecal Occult Blood,n
+Negative - ve,Immunochemical Fecal Occult Blood,n
+Negative -Ve,Immunochemical Fecal Occult Blood,n
+Negative -ve,Immunochemical Fecal Occult Blood,n
+Negative ive,Immunochemical Fecal Occult Blood,n
+Negatve - ve,Immunochemical Fecal Occult Blood,n
+Negetive ( -ve ),Immunochemical Fecal Occult Blood,n
+Negetive (-ve),Immunochemical Fecal Occult Blood,n
+Negetive - ve,Immunochemical Fecal Occult Blood,n
+Negive - ve,Immunochemical Fecal Occult Blood,n
+Positive,Immunochemical Fecal Occult Blood,an
+Positive  +Ve,Immunochemical Fecal Occult Blood,an
+Positive + ve,Immunochemical Fecal Occult Blood,an
+Positive +Ve,Immunochemical Fecal Occult Blood,an
+Positive +ve,Immunochemical Fecal Occult Blood,an
+Positive -ve,Immunochemical Fecal Occult Blood,an
+Weak Positive,Immunochemical Fecal Occult Blood,an
+Weak positive,Immunochemical Fecal Occult Blood,an
+negative,Immunochemical Fecal Occult Blood,n
+negative  - ve,Immunochemical Fecal Occult Blood,n
+negative - ve,Immunochemical Fecal Occult Blood,n
+negative -ve,Immunochemical Fecal Occult Blood,n
+positive + ve,Immunochemical Fecal Occult Blood,an
+positive +ve,Immunochemical Fecal Occult Blood,an
+< 1.0,Immunoglobulin E,n
+-,International Normalized Ratio,n
+> 900,Lactate Dehydrogenase,n
+0.1<,Luteinizing Hormone,bn
+5..07,Luteinizing Hormone,n
+< 0.1,Luteinizing Hormone,bn
+<0.1,Luteinizing Hormone,bn
+10570..52,N-Terminal Pro-B-Type Natriuretic Peptide,n
+< 50,N-Terminal Pro-B-Type Natriuretic Peptide,n
+> 25000,N-Terminal Pro-B-Type Natriuretic Peptide,an
+27%,Packed Cell Volume,bn
+28%,Packed Cell Volume,bn
+29%,Packed Cell Volume,bn
+30%,Packed Cell Volume,bn
+31%,Packed Cell Volume,bn
+32%,Packed Cell Volume,bn
+33%,Packed Cell Volume,bn
+34%,Packed Cell Volume,bn
+35%,Packed Cell Volume,bn
+36%,Packed Cell Volume,n
+37%,Packed Cell Volume,n
+38%,Packed Cell Volume,n
+39%,Packed Cell Volume,n
+40%,Packed Cell Volume,n
+41%,Packed Cell Volume,n
+42%,Packed Cell Volume,n
+43%,Packed Cell Volume,n
+44%,Packed Cell Volume,n
+45%,Packed Cell Volume,n
+46%,Packed Cell Volume,n
+47%,Packed Cell Volume,an
+48%,Packed Cell Volume,an
+49%,Packed Cell Volume,an
+50%,Packed Cell Volume,an
+52%,Packed Cell Volume,an
+53%,Packed Cell Volume,an
+54%,Packed Cell Volume,an
+70%,Packed Cell Volume,an
+< 2.40,Parathyroid Hormone,bn
+Hyphae of Fungi Presence,Potassium Hydroxide Test,an
+Hyphae of Fungi presence,Potassium Hydroxide Test,an
+#NAME?,Pregnancy Test (Beta-hCG),n
+< 0.1,Pregnancy Test (Beta-hCG),n
+<0.1,Pregnancy Test (Beta-hCG),n
+>10000,Pregnancy Test (Beta-hCG),an
+Neagative -ve,Pregnancy Test (Beta-hCG),n
+Neagtive - ve,Pregnancy Test (Beta-hCG),n
+Negaive -Ve,Pregnancy Test (Beta-hCG),n
+Negateve -ve,Pregnancy Test (Beta-hCG),n
+Negative,Pregnancy Test (Beta-hCG),n
+Negative   -Ve,Pregnancy Test (Beta-hCG),n
+Negative  -Ve,Pregnancy Test (Beta-hCG),n
+Negative  -ve,Pregnancy Test (Beta-hCG),n
+Negative  Ve,Pregnancy Test (Beta-hCG),n
+Negative ( -ve ),Pregnancy Test (Beta-hCG),n
+Negative ( -ve),Pregnancy Test (Beta-hCG),n
+Negative (-ve),Pregnancy Test (Beta-hCG),n
+Negative - Ve,Pregnancy Test (Beta-hCG),n
+Negative - ve,Pregnancy Test (Beta-hCG),n
+Negative -VBe,Pregnancy Test (Beta-hCG),n
+Negative -Ve,Pregnancy Test (Beta-hCG),n
+Negative -v,Pregnancy Test (Beta-hCG),n
+Negative -ve,Pregnancy Test (Beta-hCG),n
+Negative =Ve,Pregnancy Test (Beta-hCG),n
+Negative _ve,Pregnancy Test (Beta-hCG),n
+Negetive ( -ve ),Pregnancy Test (Beta-hCG),n
+Ngative  -Ve,Pregnancy Test (Beta-hCG),n
+Posative  +Ve,Pregnancy Test (Beta-hCG),an
+Posetive,Pregnancy Test (Beta-hCG),an
+Posetive +Ve,Pregnancy Test (Beta-hCG),an
+Positive,Pregnancy Test (Beta-hCG),an
+Positive   +Ve,Pregnancy Test (Beta-hCG),an
+Positive  +Ve,Pregnancy Test (Beta-hCG),an
+Positive  +ve,Pregnancy Test (Beta-hCG),an
+Positive  -Ve,Pregnancy Test (Beta-hCG),an
+Positive ( +ve ),Pregnancy Test (Beta-hCG),an
+Positive + Ve,Pregnancy Test (Beta-hCG),an
+Positive + ve,Pregnancy Test (Beta-hCG),an
+Positive +Ve,Pregnancy Test (Beta-hCG),an
+Positive +ve,Pregnancy Test (Beta-hCG),an
+Positive -Ve,Pregnancy Test (Beta-hCG),an
+Positive+ve,Pregnancy Test (Beta-hCG),an
+Positve +Ve,Pregnancy Test (Beta-hCG),an
+Possitive,Pregnancy Test (Beta-hCG),an
+Possitive  +Ve,Pregnancy Test (Beta-hCG),an
+Possitive +Ve,Pregnancy Test (Beta-hCG),an
+Possitive -Ve,Pregnancy Test (Beta-hCG),an
+Postive  +Ve,Pregnancy Test (Beta-hCG),an
+Waek Positive,Pregnancy Test (Beta-hCG),an
+Wak Positive,Pregnancy Test (Beta-hCG),an
+Weak Posdsitive,Pregnancy Test (Beta-hCG),n
+Weak Positive,Pregnancy Test (Beta-hCG),an
+Weak Positive  +Ve,Pregnancy Test (Beta-hCG),an
+Weak Positive + ve,Pregnancy Test (Beta-hCG),an
+Weak Positive +ve,Pregnancy Test (Beta-hCG),an
+Weak positive,Pregnancy Test (Beta-hCG),an
+Weak positive (+ve),Pregnancy Test (Beta-hCG),an
+negative,Pregnancy Test (Beta-hCG),n
+negative - ve,Pregnancy Test (Beta-hCG),n
+negative -ve,Pregnancy Test (Beta-hCG),n
+posative  +Ve,Pregnancy Test (Beta-hCG),an
+posative +ve,Pregnancy Test (Beta-hCG),an
+positive,Pregnancy Test (Beta-hCG),an
+positive + ve,Pregnancy Test (Beta-hCG),an
+positive +Ve,Pregnancy Test (Beta-hCG),an
+positive +ve,Pregnancy Test (Beta-hCG),an
+weak Positive,Pregnancy Test (Beta-hCG),an
+weak possitive,Pregnancy Test (Beta-hCG),an
+< 0.050,Progesterone,bn
+< 0.25,Progesterone,n
+> 60,Progesterone,an
+< 0.047,Prolactin,bn
+<0.047,Prolactin,bn
+< 0.006,Prostate-Specific Antigen,n
+<0.006,Prostate-Specific Antigen,n
+> 100,Prostate-Specific Antigen,an
+>100,Prostate-Specific Antigen,an
+> 150,Protein C Assay,n
+> 120,Prothrombin Time,n
+Negative  -Ve,Rheumatoid Arthritis,n
+#NAME?,Rheumatoid Factor,n
+>160,Rheumatoid Factor,an
+Negative,Rheumatoid Factor,n
+Negative  -Ve,Rheumatoid Factor,n
+Negative (-ve),Rheumatoid Factor,n
+Negative - ve,Rheumatoid Factor,n
+Negative -Ve,Rheumatoid Factor,n
+Negative -ve,Rheumatoid Factor,n
+Positive  +Ve,Rheumatoid Factor,an
+Positive (+ve),Rheumatoid Factor,an
+Positive + ve,Rheumatoid Factor,an
+Positive +ve,Rheumatoid Factor,an
+negative - ve,Rheumatoid Factor,n
+< 0.1,Rheumatoid Factor Titer,n
+< 3,Rheumatoid Factor Titer,n
+< 3.0,Rheumatoid Factor Titer,n
+<3,Rheumatoid Factor Titer,n
+<3.0,Rheumatoid Factor Titer,n
+>169,Rheumatoid Factor Titer,an
+Negative,Rheumatoid Factor Titer,n
+Negative,Rose Bengal Test,n
+Negative  -Ve,Rubella IgG Rapid Test,n
+Negative  -Ve,Rubella IgM Rapid Test,n
+Negative - ve,Serum Creatinine,n
+< 0.5,Serum Ferritin,bn
+<0.5,Serum Ferritin,bn
+<0.50,Serum Ferritin,bn
+<0.500,Serum Ferritin,bn
+> 2000,Serum Ferritin,an
+69*,Serum LDL Cholesterol,n
+> 500,Serum Triglycerides,an
+>1004,Serum Triglycerides,an
+>1113,Serum Triglycerides,an
+>1200,Serum Triglycerides,an
+>1285,Serum Triglycerides,an
+>500,Serum Triglycerides,an
+< 10,Stool For Calprotectin titer,n
+< 15,Stool For Calprotectin titer,n
+< 5,Stool For Calprotectin titer,n
+< 5.0,Stool For Calprotectin titer,n
+<5.00,Stool For Calprotectin titer,n
+"3,23",TSH,n
+<  0.005,TSH,bn
+< 0.005,TSH,bn
+< 0.05,TSH,bn
+<0.005,TSH,bn
+> 100,TSH,an
+> 100.0,TSH,an
+>100,TSH,an
+>100.0,TSH,an
+<0.8,TSH Receptor Antibody,n
+< 0.025,Testosterone,bn
+<0.025,Testosterone,bn
+>15,Testosterone,n
+< 0.04,Thyroglobulin,bn
+> 320.0,Thyroxine (T4),n
+< 3,Tissue Transglutaminase IgA,n
+< 3.0,Tissue Transglutaminase IgA,n
+< 3,Tissue Transglutaminase IgG,n
+Negative  -Ve,Toxoplasma IgG Rapid Test,n
+Negative  -Ve,Toxoplasma IgM Rapid Test,n
+< 1178.00,Triglycerides,n
+>10,Triiodothyronine (T3),n
+#NAME?,Typhoid IgG,n
+Negative,Typhoid IgG,n
+Negative  -Ve,Typhoid IgG,n
+Negative  -ve,Typhoid IgG,n
+Negative (-ve),Typhoid IgG,n
+Negative - ve,Typhoid IgG,n
+Negative -Ve,Typhoid IgG,n
+Negative -ve,Typhoid IgG,n
+Negative-ve,Typhoid IgG,n
+Posative +ve,Typhoid IgG,an
+Posetive +Ve,Typhoid IgG,an
+Posetive +ve,Typhoid IgG,an
+Posiitive +Ve,Typhoid IgG,an
+Positive,Typhoid IgG,an
+Positive  +Ve,Typhoid IgG,an
+Positive (+ve),Typhoid IgG,an
+Positive + ve,Typhoid IgG,an
+Positive +Ve,Typhoid IgG,an
+Positive +ve,Typhoid IgG,an
+Positve +Ve,Typhoid IgG,an
+Possitive  +Ve,Typhoid IgG,an
+Weak Positive,Typhoid IgG,an
+Weak Positive + ve,Typhoid IgG,an
+Weak positive + ve,Typhoid IgG,an
+negative,Typhoid IgG,n
+weak positive + ve,Typhoid IgG,an
+#NAME?,Typhoid IgM,n
+Negative,Typhoid IgM,n
+Negative  -V,Typhoid IgM,n
+Negative  -Ve,Typhoid IgM,n
+Negative  -ve,Typhoid IgM,n
+Negative (-ve),Typhoid IgM,n
+Negative - ve,Typhoid IgM,n
+Negative -Ve,Typhoid IgM,n
+Negative -ve,Typhoid IgM,n
+Nigative,Typhoid IgM,n
+Poitive + ve,Typhoid IgM,n
+Posative +ve,Typhoid IgM,an
+Posiitive +Ve,Typhoid IgM,an
+Positive,Typhoid IgM,an
+Positive  +Ve,Typhoid IgM,an
+Positive (+ve),Typhoid IgM,an
+Positive + ve,Typhoid IgM,an
+Positive +Ve,Typhoid IgM,an
+Positive +ve,Typhoid IgM,an
+Possitive  +Ve,Typhoid IgM,an
+Possitive +Ve,Typhoid IgM,an
+Waek Positive,Typhoid IgM,an
+Weak Positive,Typhoid IgM,an
+Weak Positive + ve,Typhoid IgM,an
+Weak Positive +ve,Typhoid IgM,an
+naegative  - ve,Typhoid IgM,n
+negative   -ve,Typhoid IgM,n
+negative - ve,Typhoid IgM,n
+positive,Typhoid IgM,an
+weak positive,Typhoid IgM,an
+weak possitive,Typhoid IgM,an
+> 66,Urine Albumin,an
+#NAME?,Urine Beta-hCG,n
+Negative,Urine Beta-hCG,n
+Negative  -Ve,Urine Beta-hCG,n
+Negative -Ve,Urine Beta-hCG,n
+Positive  +Ve,Urine Beta-hCG,an
+Positive +Ve,Urine Beta-hCG,an
+weak positive,Urine Beta-hCG,an
+no growth,Urine Culture,n
+< 50,Vitamin B12,bn
+<50,Vitamin B12,bn
+> 2000,Vitamin B12,an
+>2000,Vitamin B12,an
+"13,5",Vitamin D3,n
+"4,44",Vitamin D3,n
+<,Vitamin D3,n
+<  3,Vitamin D3,bn
+< 3,Vitamin D3,bn
+< 3.0,Vitamin D3,bn
+< 8.1,Vitamin D3,bn
+<3,Vitamin D3,bn
+<3.0,Vitamin D3,bn
+> 120,Vitamin D3,an
+>120,Vitamin D3,an
+>3,Vitamin D3,n

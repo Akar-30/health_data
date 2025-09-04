@@ -1,0 +1,382 @@
+Test Name,Unit,Category,Lab,Standard Test Name ChatGPT,Standard Test Name DeepSeek
+1 hr,mg/dl,OGTT,Biolab,Glucose (1h OGTT),1-Hour Glucose
+1 hr,mg/l,OGTT,Hawkari,Glucose (1h OGTT),1-Hour Glucose
+17- OH Progesterone ( Basal ),ng/ml,Endocrine Panelo ,Hawkari,17- OH Progesterone ( Basal ),17-Hydroxyprogesterone
+2 hr,mg/dl,OGTT,Biolab,Glucose (2h OGTT),2-Hour Glucose
+2 hr,mg/dl,OGTT,Hawkari,Glucose (2h OGTT),2-Hour Glucose
+24 hr Urine Protein,mg/24hr,Biochemical Test,Biolab,24 hr Urine Protein,24-Hour Urine Protein
+24 hrs Urine Calcium,mg/24,Biochemical Test,Biolab,24 hrs Urine Calcium,24-Hour Urine Calcium
+24h Urine Calcium,mg/24 hr,Renal Function Test,Hawkari,24h Urine Calcium,24-Hour Urine Calcium
+24h Urine Phosphorus,mg/24 hr,Renal Function Test,Hawkari,24h Urine Phosphorus,24-Hour Urine Phosphorus
+24h Urine Uric Acid,mg/24 hr,Renal Function Test,Hawkari,24h Urine Uric Acid,24-Hour Urine Uric Acid
+A.TPO,IU/Ml,Thyroid Function Test,Biolab,Anti-TPO Antibody,Anti-Thyroid Peroxidase Antibody
+A.TPO,IU/Ml,Thyroid Function Test,Hawkari,Anti-TPO Antibody,Anti-Thyroid Peroxidase Antibody
+ACR (Albumin:Creatinine ratio),mg/g,Biochemical Test,Biolab,ACR (Albumin:Creatinine ratio),Albumin-to-Creatinine Ratio
+ACTH,ng/l,Endocrine Panelo ,Biolab,ACTH,Adrenocorticotropic Hormone
+ACTH,ng/ml,Endocrine Panelo ,Hawkari,ACTH,Adrenocorticotropic Hormone
+AFP,IU/Ml,Tumur Marker,Biolab,Alpha-Fetoprotein (AFP),Alpha-Fetoprotein
+Albumin In ( spot urine),mg/dl,Biochemical Test,Biolab,Albumin In ( spot urine),Urine Albumin (Spot)
+Albumin/creatinine Ratio,mg/g,Biochemical Test,Hawkari,Albumin/creatinine Ratio,Albumin-to-Creatinine Ratio
+Alpha fetoprotein,IU/Ml,Tumor Marker,Hawkari,Alpha-Fetoprotein (AFP),Alpha-Fetoprotein
+AMH,ng/ml,Fertility Test,Biolab,Anti-Müllerian Hormone (AMH),Anti-Müllerian Hormone
+AMH,ng/ml,Fertility Test,Hawkari,Anti-Müllerian Hormone (AMH),Anti-Müllerian Hormone
+ANA,IU/Ml,Rheumatology Test,Biolab,ANA,Antinuclear Antibody
+ANA,Ndx,Rheumatology Test,Hawkari,ANA,Antinuclear Antibody
+Anti - MPO ( PANCA ),U/ml,Autoimmune Disease,Biolab,Anti - MPO ( PANCA ),Anti-Myeloperoxidase Antibody (p-ANCA)
+Anti - PR3 (CANCA),U/ml,Autoimmune Disease,Biolab,Anti - PR3 (CANCA),Anti-Proteinase 3 Antibody (c-ANCA)
+Anti Cardiolipin IgG,U/ml,Phospholipid Syndrome,Biolab,Anti Cardiolipin IgG,Anti-Cardiolipin IgG
+Anti Cardiolipin IgG,U/ml,Phospholipid Syndrome,Hawkari,Anti Cardiolipin IgG,Anti-Cardiolipin IgG
+Anti Cardiolipin IgM,U/ml,Phospholipid Syndrome,Biolab,Anti Cardiolipin IgM,Anti-Cardiolipin IgM
+Anti Cardiolipin IgM,U/ml,Phospholipid Syndrome,Hawkari,Anti Cardiolipin IgM,Anti-Cardiolipin IgM
+Anti CCP,IU/Ml,Rheumatology Test,Biolab,Anti CCP,Anti-Cyclic Citrullinated Peptide
+Anti CCP,IU/Ml,Rheumatology Test,Hawkari,Anti CCP,Anti-Cyclic Citrullinated Peptide
+Anti Endomysial IgA,IU/Ml,Celiac Disease,Biolab,Anti Endomysial IgA,Anti-Endomysial Antibody IgA
+Anti Endomysial IgG,IU/Ml,Celiac Disease,Biolab,Anti Endomysial IgG,Anti-Endomysial Antibody IgG
+Anti Phospholipid IgG,U/ml,Phospholipid Syndrome,Biolab,Anti Phospholipid IgG,Anti-Phospholipid IgG
+Anti Phospholipid IgG,U/ml,Phospholipid Syndrome,Hawkari,Anti Phospholipid IgG,Anti-Phospholipid IgG
+Anti Phospholipid IgM,U/ml,Phospholipid Syndrome,Biolab,Anti Phospholipid IgM,Anti-Phospholipid IgM
+Anti Phospholipid IgM,U/ml,Phospholipid Syndrome,Hawkari,Anti Phospholipid IgM,Anti-Phospholipid IgM
+Anti- PR3 hs ( c-ANCA ),AU/mL,Vasculitis,Hawkari,Anti- PR3 hs ( c-ANCA ),Anti-Proteinase 3 Antibody (c-ANCA)
+Anti TG,IU/Ml,Thyroid Function Test,Biolab,Anti-Thyroglobulin Antibody,Anti-Thyroglobulin Antibody
+Anti-GAD ( GADA ),IU/Ml,Adrenocortical Fuction Test,Hawkari,Anti-GAD ( GADA ),Anti-Glutamic Acid Decarboxylase Antibody
+Anti-IA2,U/ml,Biochemical Test,Hawkari,Anti-IA2,Anti-IA2 Antibody
+Anti-MPO ( p-ANCA ),AU/mL,Vasculitis,Hawkari,Anti-MPO ( p-ANCA ),Anti-Myeloperoxidase Antibody (p-ANCA)
+Anti-SS B antibody ( Anti- La),IU/Ml,Rheumatology Test,Hawkari,Anti-SS B antibody ( Anti- La),Anti-SSB/La Antibody
+Anti-SS-Antibody( Anti-Ro ),IU/Ml,Rheumatology Test,Biolab,Anti-SS-Antibody( Anti-Ro ),Anti-SSA/Ro Antibody
+Anti-SS-Antibody( Anti-Ro ),IU/Ml,Rheumatology Test,Hawkari,Anti-SS-Antibody( Anti-Ro ),Anti-SSA/Ro Antibody
+Anti-Tg ( Anti Thyroglobulin),IU/Ml,Thyroid Function Test,Biolab,Anti-Tg ( Anti Thyroglobulin),Anti-Thyroglobulin Antibody
+Antithrombin III ( AT ),%,Coagulation Test,Hawkari,Antithrombin III ( AT ),Antithrombin III
+ASO,,Serology Test,Biolab,ASO,Anti-Streptolysin O
+ASO,,Serology Test,Darugha,ASO,Anti-Streptolysin O
+ASO,,Serology Test,Hawkari,ASO,Anti-Streptolysin O
+ASO Titer,g/l,Bacteria Infection,Biolab,ASO (Titer),Anti-Streptolysin O Titer
+A-TG ( Anti-Thyroglobulin ),IU/Ml,Thyroid Function Test,Hawkari,Anti-Thyroglobulin Antibody,Anti-Thyroglobulin Antibody
+B.Sugar 2h pp,mg/dl,Diabetes Test,Biolab,Glucose (2h Postprandial),2-Hour Postprandial Glucose
+B.Urea,mg/dl,Renal Function Test,Biolab,Blood Urea,Blood Urea Nitrogen
+B.Urea,mg/dl,Renal Function Test,Darugha,Blood Urea,Blood Urea Nitrogen
+B.Urea,mg/dl,Renal Function Test,Hawkari,Blood Urea,Blood Urea Nitrogen
+B2 Glycoprotein IgG,U/ml,Phospholipid Syndrome,Biolab,B2 Glycoprotein IgG,Anti-Beta-2 Glycoprotein IgG
+B2 Glycoprotein IgG,U/ml,Phospholipid Syndrome,Hawkari,B2 Glycoprotein IgG,Anti-Beta-2 Glycoprotein IgG
+B2 Glycoprotein IgM,U/ml,Phospholipid Syndrome,Biolab,B2 Glycoprotein IgM,Anti-Beta-2 Glycoprotein IgM
+B2 Glycoprotein IgM,U/ml,Phospholipid Syndrome,Hawkari,B2 Glycoprotein IgM,Anti-Beta-2 Glycoprotein IgM
+BHCG By Urine,,Hormonal Assay,Biolab,Beta-hCG (Urine),Urine Beta-hCG
+BHCG Titer,mIU/ml,Fertility Test,Biolab,Beta-hCG (Titer),Beta-hCG Titer
+BHCG Titer,mIU/ml,Fertility Test,Hawkari,Beta-hCG (Titer),Beta-hCG Titer
+Bleeding Time,min,Coagulation Test,Biolab,Bleeding Time,Bleeding Time
+Bleeding Time,min,Heamatology Test,Biolab,Bleeding Time,Bleeding Time
+Bleeding Time,min,Coagulation Test,Darugha,Bleeding Time,Bleeding Time
+Bleeding Time,min,Coagulation Test,Hawkari,Bleeding Time,Bleeding Time
+Bleeding Time,min,Heamatology Test,Hawkari,Bleeding Time,Bleeding Time
+Blood Group & Rh,,Heamatology Test,Biolab,Blood Group & Rh,Blood Group and Rh Factor
+Blood Group & Rh,,Heamatology Test,Darugha,Blood Group & Rh,Blood Group and Rh Factor
+Blood Group & Rh,,Heamatology Test,Hawkari,Blood Group & Rh,Blood Group and Rh Factor
+Blood Sugar,mg/dl,Diabetes Test,Biolab,Glucose,Blood Sugar
+Blood Sugar,mg/dl,Heamatology Test,Biolab,Glucose,Blood Glucose
+Blood Sugar,mg/dl,Diabetes Test,Hawkari,Glucose,Blood Glucose
+Blood Sugar,mg/dl,Biochemical Test,Hawkari,Glucose,Blood Glucose
+Brucella,,Serology Test,Biolab,Brucella,Brucella
+Brucella,,Serology Test,Hawkari,Brucella,Brucella
+Brucella IgG,NTU,Bacteria Infection,Biolab,Brucella IgG,Brucella IgG
+Brucella IgG,NTU,Bacteria Infection,Hawkari,Brucella IgG,Brucella IgG
+Brucella IgM,NTU,Bacteria Infection,Biolab,Brucella IgM,Brucella IgM
+Brucella IgM,NTU,Bacteria Infection,Hawkari,Brucella IgM,Brucella IgM
+CA 125,U/ml,Tumur Marker,Biolab,CA-125,CA 125
+CA 15.3,U/ml,Tumur Marker,Biolab,CA 15-3,CA 15-3
+CA 15.3,U/ml,Tumor Marker,Hawkari,CA 15-3,CA 15-3
+CA 19.9,U/ml,Tumur Marker,Biolab,CA 19-9,CA 19-9
+CA 19-9 ( carbohydrate antigen,IU/Ml,Tumor Marker,Hawkari,CA 19-9,CA 19-9
+Calcitonin,pg/ml,Thyroid Function Test,Hawkari,Calcitonin,Calcitonin
+"Calcium ( Ionized,Free )",Mmol/l,Electrolyte,Hawkari,"Calcium ( Ionized,Free )",Ionized Calcium
+Cancer antigen 125 (Ca125),IU/Ml,Tumor Marker,Hawkari,CA-125,CA 125
+CBC,,CBC,Biolab,Complete Blood Count (CBC),Complete Blood Count
+CBC,,CBC,Hawkari,Complete Blood Count (CBC),Complete Blood Count
+CEA,ng/ml,Tumur Marker,Biolab,CEA,Carcinoembryonic Antigen
+CEA,ng/ml,Tumor Marker,Hawkari,CEA,Carcinoembryonic Antigen
+Ceroplasmin,g/l,Biochemical Test,Biolab,Ceroplasmin,Ceruloplasmin
+Chloride CL-,mEQ/I,Electrolyte,Biolab,Chloride CL-,Chloride
+Chloride CL-,Mmol/l,Electrolyte,Darugha,Chloride CL-,Chloride
+Chloride CL-,Mmol/l,Electrolyte,Hawkari,Chloride CL-,Chloride
+Clotting Time,min,Coagulation Test,Biolab,Clotting Time,Clotting Time
+Clotting Time,min,Heamatology Test,Biolab,Clotting Time,Clotting Time
+Clotting Time,min,Coagulation Test,Darugha,Clotting Time,Clotting Time
+Clotting Time,min,Coagulation Test,Hawkari,Clotting Time,Clotting Time
+Clotting Time,min,Heamatology Test,Hawkari,Clotting Time,Clotting Time
+CMV IgG,IU/Ml,TORCH,Biolab,CMV IgG,Cytomegalovirus IgG
+CMV IgG,,TORCH Rapid Test,Biolab,CMV IgG,Cytomegalovirus IgG Rapid Test
+CMV IgM,IU/Ml,TORCH,Biolab,CMV IgM,Cytomegalovirus IgM
+CMV IgM,,TORCH Rapid Test,Biolab,CMV IgM,Cytomegalovirus IgM Rapid Test
+CMV IgM,COI,TORCH,Hawkari,CMV IgM,Cytomegalovirus IgM
+Complement C3,mg/dl,Coagulation Test,Hawkari,Complement C3,Complement C3
+Complement C4,mg/dl,Coagulation Test,Hawkari,Complement C4,Complement C4
+Coombs Test (Direct ),,Coagulation Test,Biolab,Coombs Test (Direct ),Direct Coombs Test
+Cortisol,nmol/l,Endocrine Panelo ,Biolab,Cortisol,Cortisol
+Cortisol,nmol/l,Endocrine Panelo ,Hawkari,Cortisol,Cortisol
+Covid 19  IgG,,Covid 19 Antibody,Biolab,Covid 19  IgG,COVID-19 IgG
+Covid 19 Ag,COI,Covid19 Antige Titer,Biolab,Covid 19 Ag,COVID-19 Antigen Titer
+Covid 19 antigen,,Covid 19 Ag Rapid Test,Biolab,Covid 19 antigen,COVID-19 Antigen
+Covid 19 antigen,,Covid 19 Ag Rapid Test,Hawkari,Covid 19 antigen,COVID-19 Antigen
+Covid 19 IgG,,Covid 19 Spike,Biolab,Covid 19 IgG,COVID-19 IgG Spike
+Covid 19 IgG,,Covid 19 Antibody Rapid Test,Biolab,Covid 19 IgG,COVID-19 IgG Rapid Test
+Covid 19 IgG,,Covid 19 Spike,Hawkari,Covid 19 IgG,COVID-19 IgG Spike
+Covid 19 IgG,,Covid 19 Antibody Rapid Test,Hawkari,Covid 19 IgG,COVID-19 IgG Rapid Test
+Covid 19 IgM,,Covid 19 Antibody,Biolab,Covid 19 IgM,COVID-19 IgM
+Covid 19 IgM,,Covid 19 Spike,Biolab,Covid 19 IgM,COVID-19 IgM Spike
+Covid 19 IgM,,Covid 19 Antibody Rapid Test,Biolab,Covid 19 IgM,COVID-19 IgM Rapid Test
+Covid 19 IgM,,Covid 19 Spike,Hawkari,Covid 19 IgM,COVID-19 IgM Spike
+Covid 19 IgM,,Covid 19 Antibody Rapid Test,Hawkari,Covid 19 IgM,COVID-19 IgM Rapid Test
+CPK,U/L,Cardiac Markers,Biolab,CPK,Creatine Phosphokinase
+CPK,U/L,Cardiac Markers,Hawkari,CPK,Creatine Phosphokinase
+Creatinine,mg/dl,Renal Function Test,Darugha,Serum Creatinine,Creatinine
+Creatinine in (spot urine),mg/dl,Biochemical Test,Biolab,Creatinine in (spot urine),Urine Creatinine (Spot)
+CRP,,Serology Test,Biolab,C-Reactive Protein,C-Reactive Protein
+CRP,,Serology Test,Darugha,C-Reactive Protein,C-Reactive Protein
+CRP Titer,mg/l,Biochemical Test,Biolab,C-Reactive Protein (Titer),C-Reactive Protein Titer
+CRP Titer,mg/l,Biochemical Test,Darugha,C-Reactive Protein (Titer),C-Reactive Protein Titer
+CRP Titer,mg/l,Biochemical Test,Hawkari,C-Reactive Protein (Titer),C-Reactive Protein Titer
+D.Dimer,mg/l,Coagulation Test,Biolab,D.Dimer,D-Dimer
+D.Dimer,mg/l,Coagulation Test,Hawkari,D.Dimer,D-Dimer
+DHEA - S,µg/dl,Steroids Panel,Biolab,DHEA-S,Dehydroepiandrosterone Sulfate
+DHEA - S,µg/dl,Steroids Panel,Hawkari,DHEA-S,Dehydroepiandrosterone Sulfate
+Direct Bilirubin,mg/dl,Liver Function Test,Biolab,Direct Bilirubin,Direct Bilirubin
+Direct Bilirubin,mg/dl,Liver Function Test,Hawkari,Direct Bilirubin,Direct Bilirubin
+Direct coombs ( Antiglobulin ) test :,,Coagulation Test,Hawkari,Direct coombs ( Antiglobulin ) test :,Direct Coombs Test
+Ds-DNA IgG,IU/Ml,Rheumatology Test,Biolab,Ds-DNA IgG,Anti-dsDNA IgG
+Ds-DNA IgG,IU/Ml,Rheumatology Test,Hawkari,Ds-DNA IgG,Anti-dsDNA IgG
+Ds-DNA IgM,IU/Ml,Rheumatology Test,Biolab,Ds-DNA IgM,Anti-dsDNA IgM
+Ds-DNA IgM,IU/Ml,Rheumatology Test,Hawkari,Ds-DNA IgM,Anti-dsDNA IgM
+Erythrocyte Sedimentation Rate ( ESR ),mm/1hr,Heamatology Test,Darugha,Erythrocyte Sedimentation Rate (ESR),Erythrocyte Sedimentation Rate
+Erythrocyte Sedimentation Rate ( ESR ),mm/1hr,Heamatology Test,Hawkari,Erythrocyte Sedimentation Rate (ESR),Erythrocyte Sedimentation Rate
+ESR,mm/1hr,Heamatology Test,Biolab,Erythrocyte Sedimentation Rate (ESR),Erythrocyte Sedimentation Rate
+Estrodoil ( E2 ),pg/ml,Steroids Panel,Biolab,Estradiol (E2),Estradiol (E2)
+Estrodoil ( E2 ),pg/ml,Steroids Panel,Hawkari,Estradiol (E2),Estradiol (E2)
+Fasciola hepatica,DU,immune system,Hawkari,Fasciola hepatica,Fasciola hepatica Antibody
+Fastin Blood Sugar,mg/dl,OGTT,Biolab,Fasting Blood Glucose,Fasting Blood Sugar
+Fecal Calprotectein,µg/g,Fecal Calprotectein,Biolab,Fecal Calprotectein,Fecal Calprotectin
+Fecal Calprotectein Titer,µg/g,Fecal Calprotectein,Biolab,Fecal Calprotectein Titer,Fecal Calprotectin Titer
+Fecal occult Blood ( FOB ),,Fecal Occult Blood,Hawkari,Fecal occult Blood ( FOB ),Fecal Occult Blood
+FOB,,Fecal Occult Blood,Biolab,FOB,Fecal Occult Blood
+FOB Titer,ng/ml,Fecal Occult Blood,Biolab,FOB Titer,Fecal Occult Blood Titer
+Folate,nmol/l,Vitamins Test,Biolab,Folate,Folate
+Free Cortisol (24 hour urine ),µg/24h,Hormonal Assay,Hawkari,Free Cortisol (24 hour urine ),Free Cortisol (24-Hour Urine)
+Free Prostate Specific antigen ( FPSA ),ng/ml,Tumor Marker,Hawkari,Free Prostate Specific antigen ( FPSA ),Free Prostate-Specific Antigen
+Free T3 ( FT3 ),pmol/L,Thyroid Function Test,Darugha,Free T3,Free T3
+Free T3 ( FT3 ),pmol/L,Thyroid Function Test,Hawkari,Free T3,Free T3
+Free T4 ( FT4 ),pmol/L,Thyroid Function Test,Darugha,Free T4,Free T4
+Free T4 ( FT4 ),pmol/L,Thyroid Function Test,Hawkari,Free T4,Free T4
+Free Testosterone,pg/ml,Steroids Panel,Biolab,Free Testosterone,Free Testosterone
+Free Testosterone,pg/ml,Fertility Test,Hawkari,Free Testosterone,Free Testosterone
+FSH,mIU/ml,Fertility Test,Biolab,FSH,Follicle-Stimulating Hormone
+FSH,mIU/ml,Fertility Test,Hawkari,FSH,Follicle-Stimulating Hormone
+FT3,pmol/L,Thyroid Function Test,Biolab,Free T3,Free T3
+FT4,pmol/L,Thyroid Function Test,Biolab,Free T4,Free T4
+G6PD,Iu/gHb,Heamatology Test,Biolab,G6PD,Glucose-6-Phosphate Dehydrogenase
+Gastrin Level,pg/ml,Hormonal Assay,Biolab,Gastrin Level,Gastrin
+GGT,U/L,Biochemical Test,Biolab,GGT,Gamma-Glutamyl Transferase
+GGT,U/L,Biochemical Test,Hawkari,GGT,Gamma-Glutamyl Transferase
+GH ( Basal Level ),ng/ml,Hormonal Assay,Biolab,GH ( Basal Level ),Growth Hormone (Basal Level)
+"GH ( Stimulation , Exercise )",ng/ml,Hormonal Assay,Biolab,"GH ( Stimulation , Exercise )",Growth Hormone (Stimulation Test)
+Gliadin IgA,IU/Ml,Celiac Disease,Biolab,Gliadin IgA,Anti-Gliadin Antibody IgA
+Gliadin IgG,IU/Ml,Celiac Disease,Biolab,Gliadin IgG,Anti-Gliadin Antibody IgG
+Glucose,mg/dl,Diabetes Test,Darugha,Glucose,Glucose
+Glucose,mg/dl,Diabetes Test,Hawkari,Glucose,Glucose
+H.Pylori Ab,,Serology Test,Biolab,H.Pylori Ab,Helicobacter pylori Antibody
+H.pylori Ab test,,Serology Test,Darugha,H. pylori Antibody,Helicobacter pylori Antibody Test
+H.Pylori Ab Titer,,Bacteria Infection,Biolab,H.Pylori Ab Titer,Helicobacter pylori Antibody Titer
+H.Pylori Antigen,,Bacteria Infection,Biolab,H. pylori Antigen,Helicobacter pylori Antigen
+H.Pylori Antigen Titer,,Bacteria Infection,Biolab,H. pylori Antigen (Titer),Helicobacter pylori Antigen Titer
+H.pylori Blood,,Bacteria Infection,Hawkari,H.pylori Blood,Helicobacter pylori Blood Test
+H.Pylori IgG,Index,Bacteria Infection,Biolab,H.Pylori IgG,Helicobacter pylori IgG
+HBA1C,%,Diabetes Test,Biolab,HbA1c,HbA1c
+HBA1C,%,Diabetes Test,Darugha,HbA1c,HbA1c
+HBA1C,%,Diabetes Test,Hawkari,HbA1c,HbA1c
+HBs Ag,,Viral Rapid Test,Biolab,HBsAg,Hepatitis B Surface Antigen
+HBs Ag,COI,Viral Test,Biolab,HBsAg,Hepatitis B Surface Antigen
+HBs Ag,,Viral Test,Darugha,HBsAg,Hepatitis B Surface Antigen
+HBs Ag,COI,Viral Test,Hawkari,HBsAg,Hepatitis B Surface Antigen
+HCV Ab,,Viral Rapid Test,Biolab,HCV Antibody,Hepatitis C Antibody
+HCV Ab,COI,Viral Test,Biolab,HCV Antibody,Hepatitis C Antibody
+HCV Ab,,Viral Test,Darugha,HCV Antibody,Hepatitis C Antibody
+HCV Ab,COI,Viral Test,Hawkari,HCV Antibody,Hepatitis C Antibody
+HDL ( High density lipoprotein ),mg/dl,Lipid Profile ,Darugha,HDL Cholesterol,HDL Cholesterol
+HDL ( High density lipoprotein ),mg/dl,Lipid Profile ,Hawkari,HDL Cholesterol,HDL Cholesterol
+Hepatitis A IgM,,Viral Test,Hawkari,Hepatitis A IgM,Hepatitis A IgM
+HIV Ab,,Viral Rapid Test,Biolab,HIV Antibody,HIV Antibody
+HIV Ab,COI,Viral Test,Biolab,HIV Antibody,HIV Antibody
+HIV Ab,,Viral Test,Darugha,HIV Antibody,HIV Antibody
+HIV Ab,COI,Viral Test,Hawkari,HIV Antibody,HIV Antibody
+HLA-B*27 Real-Time PCR Detection,,Molecular Genetic,Hawkari,HLA-B*27 Real-Time PCR Detection,HLA-B*27 Real-Time PCR
+HSV - I ( IgG ),,TORCH Rapid Test,Biolab,HSV - I ( IgG ),Herpes Simplex Virus I IgG
+HSV - I ( IgM ),,TORCH Rapid Test,Biolab,HSV - I ( IgM ),Herpes Simplex Virus I IgM
+IFOB,,IFOB,Hawkari,IFOB,Immunochemical Fecal Occult Blood
+IFOB ( FIT ),,IFOB,Biolab,IFOB ( FIT ),Immunochemical Fecal Occult Blood
+IFOB Titer ( FIT ),µg/g,IFOB,Biolab,IFOB Titer ( FIT ),Immunochemical FOB Titer
+IgE,IU/Ml,Imunoglubulinpathy,Biolab,IgE,Immunoglobulin E
+IgE,IU/Ml,Imunoglubulinpathy,Hawkari,IgE,Immunoglobulin E
+IGF1 ( Inaulin Growth Factor ),ng/ml,Hormonal Assay,Biolab,IGF1 ( Inaulin Growth Factor ),Insulin-like Growth Factor 1
+IGF1 ( Inaulin Growth Factor ),ng/ml,Hormonal Assay,Hawkari,IGF1 ( Inaulin Growth Factor ),Insulin-like Growth Factor 1
+Immunoglobulin A ( IgA ),mg/dl,Imunoglubulinpathy,Hawkari,Immunoglobulin A ( IgA ),Immunoglobulin A
+Indirect Bilirubin,mg/dl,Liver Function Test,Biolab,Indirect Bilirubin,Indirect Bilirubin
+Indirect Bilirubin,mg/dl,Liver Function Test,Hawkari,Indirect Bilirubin,Indirect Bilirubin
+Inhibin B,pg/ml,Tumor Marker,Hawkari,Inhibin B,Inhibin B
+INR,,Coagulation Test,Biolab,INR,International Normalized Ratio
+INR,%,Coagulation Test,Hawkari,INR,International Normalized Ratio
+Insulin,IU/Ml,Diabetes Test,Biolab,Insulin,Insulin
+Iron ( Total ),µg/dl,Iron State,Hawkari,Iron ( Total ),Serum Iron
+KOH,,KOH Test,Biolab,KOH,Potassium Hydroxide Test
+LDH,IU/L,Cardiac Markers,Biolab,LDH,Lactate Dehydrogenase
+LDH,U/L,Cardiac Markers,Hawkari,LDH,Lactate Dehydrogenase
+LDL ( Low density lipoprotein ),mg/dl,Lipid Profile ,Darugha,LDL Cholesterol,LDL Cholesterol
+LDL ( Low density lipoprotein ),mg/dl,Lipid Profile ,Hawkari,LDL Cholesterol,LDL Cholesterol
+LH,mIU/ml,Fertility Test,Biolab,LH,Luteinizing Hormone
+LH,mIU/ml,Fertility Test,Hawkari,LH,Luteinizing Hormone
+Lupus Anticoagulant,sec,Coagulation Test,Biolab,Lupus Anticoagulant,Lupus Anticoagulant
+Lupus Anticoagulant,sec,Coagulation Test,Hawkari,Lupus Anticoagulant,Lupus Anticoagulant
+Metanephrine ( 24 hr urine ),µg/24h,.,Hawkari,Metanephrine ( 24 hr urine ),Metanephrine (24-Hour Urine)
+NT-Pro BNP,pg/ml,Cardiac Markers,Biolab,NT-Pro BNP,N-Terminal Pro-B-Type Natriuretic Peptide
+NT-proBNP ( N-terminal Pro-B-type Natriuretic ),pg/ml,Hormonal Assay,Hawkari,NT-proBNP ( N-terminal Pro-B-type Natriuretic ),N-Terminal Pro-B-Type Natriuretic Peptide
+PCR Ratio,mg/g,Urology,Hawkari,PCR Ratio,Protein-to-Creatinine Ratio
+PCT ( Procalcitonin ),ng/ml,Infection Disaese,Hawkari,PCT ( Procalcitonin ),Procalcitonin
+PCV,%,Heamatology Test,Biolab,Packed Cell Volume (Hematocrit),Packed Cell Volume
+PCV,%,Heamatology Test,Hawkari,Packed Cell Volume (Hematocrit),Packed Cell Volume
+Potassium K+,mEQ/I,Electrolyte,Biolab,Potassium K+,Potassium
+Potassium K+,Mmol/l,Electrolyte,Darugha,Potassium K+,Potassium
+Potassium K+,Mmol/l,Electrolyte,Hawkari,Potassium K+,Potassium
+Pregnancy Test (BHCG),,Serology Test,Biolab,Beta-hCG,Pregnancy Test (Beta-hCG)
+Pregnancy Test (BHCG),,Serology Test,Hawkari,Beta-hCG,Pregnancy Test (Beta-hCG)
+Procalcitonin,ng/ml,Infection Disaese,Biolab,Procalcitonin,Procalcitonin
+Progestron,ng/ml,Steroids Panel,Biolab,Progesterone,Progesterone
+Progestron,ng/ml,Steroids Panel,Hawkari,Progesterone,Progesterone
+Prolactin,ng/ml,Fertility Test,Biolab,Prolactin,Prolactin
+Prolactin,ng/ml,Fertility Test,Hawkari,Prolactin,Prolactin
+Protein C assay,%,Coagulation Test,Hawkari,Protein C assay,Protein C Assay
+Protein S assay,%,Coagulation Test,Hawkari,Protein S assay,Protein S Assay
+PSA,ng/ml,Tumur Marker,Biolab,PSA,Prostate-Specific Antigen
+PSA,ng/ml,Tumor Marker,Hawkari,PSA,Prostate-Specific Antigen
+PT,sec,Coagulation Test,Biolab,PT,Prothrombin Time
+PT,sec,Coagulation Test,Hawkari,PT,Prothrombin Time
+PTH,pg/ml,Hormonal Assay,Biolab,PTH,Parathyroid Hormone
+PTH,pg/ml,Hormonal Assay,Hawkari,PTH,Parathyroid Hormone
+PTT,sec,Coagulation Test,Biolab,PTT,Partial Thromboplastin Time
+PTT,sec,Coagulation Test,Hawkari,PTT,Partial Thromboplastin Time
+RA,,Serology Test,Biolab,Rheumatoid Arthritis Factor,Rheumatoid Arthritis
+Reticulocyte Count,%,Heamatology Test,Biolab,Reticulocyte Count,Reticulocyte Count
+Reticulocyte Count,%,Heamatology Test,Hawkari,Reticulocyte Count,Reticulocyte Count
+RF,,Serology Test,Biolab,Rheumatoid Factor,Rheumatoid Factor
+RF,,Serology Test,Darugha,Rheumatoid Factor,Rheumatoid Factor
+RF,,Serology Test,Hawkari,Rheumatoid Factor,Rheumatoid Factor
+RF IgG ( Rheumatoid Factor ),IU/Ml,Rheumatology Test,Hawkari,RF IgG ( Rheumatoid Factor ),Rheumatoid Factor IgG
+RF IgM ( Rheumatoid Factor ),IU/Ml,Rheumatology Test,Hawkari,RF IgM ( Rheumatoid Factor ),Rheumatoid Factor IgM
+RF Titer,U/ml,Rheumatology Test,Biolab,Rheumatoid Factor (Titer),Rheumatoid Factor Titer
+RF Titer,IU/Ml,Rheumatology Test,Darugha,Rheumatoid Factor (Titer),Rheumatoid Factor Titer
+RF Titer,IU/Ml,Rheumatology Test,Hawkari,Rheumatoid Factor (Titer),Rheumatoid Factor Titer
+Rose Bengal,,Serology Test,Darugha,Rose Bengal,Rose Bengal Test
+Rubella IgG,IU/Ml,TORCH,Biolab,Rubella IgG,Rubella IgG
+Rubella IgG,,TORCH Rapid Test,Biolab,Rubella IgG,Rubella IgG Rapid Test
+Rubella IgM,IU/Ml,TORCH,Biolab,Rubella IgM,Rubella IgM
+Rubella IgM,,TORCH Rapid Test,Biolab,Rubella IgM,Rubella IgM Rapid Test
+S.Albumin,g/dl,Liver Function Test,Biolab,Serum Albumin,Serum Albumin
+S.Albumin,g/l,Liver Function Test,Hawkari,Serum Albumin,Serum Albumin
+S.ALP,IU/L,Liver Function Test,Biolab,Alkaline Phosphatase,Alkaline Phosphatase
+S.ALP,U/L,Liver Function Test,Darugha,Alkaline Phosphatase,Alkaline Phosphatase
+S.ALP,U/L,Liver Function Test,Hawkari,Alkaline Phosphatase,Alkaline Phosphatase
+S.Amylase,U/L,Pancreatic Test,Biolab,S.Amylase,Serum Amylase
+S.Amylase,U/L,Pancreatic Test,Hawkari,S.Amylase,Serum Amylase
+S.Calcium,mg/dl,Biochemical Test,Biolab,Serum Calcium,Serum Calcium
+S.Calcium,mg/dl,Biochemical Test,Darugha,Serum Calcium,Serum Calcium
+S.Calcium,mg/dl,Biochemical Test,Hawkari,Serum Calcium,Serum Calcium
+S.Calcium Ca++,mg/dl,Electrolyte,Biolab,S.Calcium Ca++,Serum Calcium
+S.Cholestrol,mg/dl,Lipid Profile ,Biolab,Total Cholesterol,Serum Cholesterol
+S.Copper ( Cu ),µg/dl,Biochemical Test,Biolab,Serum Copper,Serum Copper
+S.Creatinine,mg/dl,Renal Function Test,Biolab,Serum Creatinine,Serum Creatinine
+S.Creatinine,mg/dl,Renal Function Test,Hawkari,Serum Creatinine,Serum Creatinine
+S.Ferritin,ng/ml,Iron Profile,Biolab,S.Ferritin,Serum Ferritin
+S.Ferritin,ng/ml,Fertility Test,Darugha,S.Ferritin,Serum Ferritin
+S.Ferritin,ng/ml,Iron Profile,Hawkari,S.Ferritin,Serum Ferritin
+S.GOT ( AST ),IU/L,Liver Function Test,Biolab,AST (SGOT),Aspartate Aminotransferase (AST)
+S.GOT ( AST ),U/L,Liver Function Test,Darugha,AST (SGOT),Aspartate Aminotransferase (AST)
+S.GOT ( AST ),U/L,Liver Function Test,Hawkari,AST (SGOT),Aspartate Aminotransferase (AST)
+S.GPT ( ALT ),IU/L,Liver Function Test,Biolab,ALT (SGPT),Alanine Aminotransferase (ALT)
+S.GPT ( ALT ),U/L,Liver Function Test,Darugha,ALT (SGPT),Alanine Aminotransferase (ALT)
+S.GPT ( ALT ),U/L,Liver Function Test,Hawkari,ALT (SGPT),Alanine Aminotransferase (ALT)
+S.HDL,mg/dl,Lipid Profile ,Biolab,HDL Cholesterol,Serum HDL Cholesterol
+S.Iron,µg/dl,Iron Profile,Biolab,Serum Iron,Serum Iron
+S.LDL,mg/dl,Lipid Profile ,Biolab,LDL Cholesterol,Serum LDL Cholesterol
+S.Lipase,U/L,Pancreatic Test,Biolab,S.Lipase,Serum Lipase
+S.Lipase,U/L,Pancreatic Test,Hawkari,S.Lipase,Serum Lipase
+S.Magnesium,mg/dl,Biochemical Test,Biolab,Serum Magnesium,Serum Magnesium
+S.Magnesium,mg/dl,Biochemical Test,Hawkari,Serum Magnesium,Serum Magnesium
+S.Phosphorus,mg/dl,Biochemical Test,Biolab,Serum Phosphorus,Serum Phosphorus
+S.Phosphorus,mg/dl,Biochemical Test,Hawkari,Serum Phosphorus,Serum Phosphorus
+S.T.Protein,g/dl,Liver Function Test,Biolab,Total Protein,Total Serum Protein
+S.T.Protein,g/dl,Liver Function Test,Hawkari,Total Protein,Total Serum Protein
+S.Triglyceride,mg/dl,Lipid Profile ,Biolab,Triglycerides,Serum Triglycerides
+S.Uric Acid,mg/dl,Renal Function Test,Biolab,Uric Acid,Serum Uric Acid
+S.Uric Acid,mg/dl,Renal Function Test,Darugha,Uric Acid,Serum Uric Acid
+S.Uric Acid,mg/dl,Renal Function Test,Hawkari,Uric Acid,Serum Uric Acid
+S.VLDL,mg/dl,Lipid Profile ,Biolab,VLDL Cholesterol,Serum VLDL Cholesterol
+S.Zinc,µg/dl,Biochemical Test,Biolab,Serum Zinc,Serum Zinc
+S.Zink,µg/dl,Biochemical Test,Hawkari,Serum Zinc,Serum Zinc
+Sodium  Na+,mEQ/I,Electrolyte,Biolab,Sodium  Na+,Sodium
+Sodium  Na+,Mmol/l,Electrolyte,Darugha,Sodium  Na+,Sodium
+Sodium  Na+,Mmol/l,Electrolyte,Hawkari,Sodium  Na+,Sodium
+Stool For Calprotectin titer,µg/g,Fecal Calprotectein,Hawkari,Stool For Calprotectin titer,Fecal Calprotectin Titer
+Stool For H.pylori ( H.pylori Ag ),,Bacteria Infection,Darugha,H. pylori Antigen,Helicobacter pylori Antigen Stool Test
+Stool For H.pylori ( H.pylori Ag ) titer,,Bacteria Infection,Hawkari,Stool For H.pylori ( H.pylori Ag ) titer,Helicobacter pylori Antigen Stool Titer
+T.S.B ( Total Serum Bilirubin ),mg/dl,Liver Function Test,Biolab,Total Bilirubin,Total Serum Bilirubin
+T.S.B ( Total Serum Bilirubin ),mg/dl,Liver Function Test,Darugha,Total Bilirubin,Total Serum Bilirubin
+T.S.B ( Total Serum Bilirubin ),mg/dl,Liver Function Test,Hawkari,Total Bilirubin,Total Serum Bilirubin
+T3,nmol/l,Thyroid Function Test,Biolab,Total T3,Triiodothyronine (T3)
+T4,nmol/l,Thyroid Function Test,Biolab,Total T4,Thyroxine (T4)
+Testosterone,ng/ml,Steroids Panel,Biolab,Testosterone,Testosterone
+Testosterone,ng/ml,Hormonal Assay,Hawkari,Testosterone,Testosterone
+Tetosterone,ng/ml,Steroids Panel,Biolab,Testosterone,Testosterone
+TG ( Thyroglobulin ),ng/ml,Thyroid Function Test,Hawkari,Thyroglobulin,Thyroglobulin
+Thyroxine (T4),nmol/l,Thyroid Function Test,Hawkari,Thyroxine (T4),Thyroxine (T4)
+TIBC,µg/dl,Iron Profile,Biolab,TIBC,Total Iron-Binding Capacity
+TIBC,µg/dl,Iron State,Hawkari,TIBC,Total Iron-Binding Capacity
+Total Cholestrol,mg/dl,Lipid Profile ,Darugha,Total Cholesterol,Total Cholesterol
+Total Cholestrol,mg/dl,Lipid Profile ,Hawkari,Total Cholesterol,Total Cholesterol
+Toxoplasma gondi IgG,,TORCH Rapid Test,Biolab,Toxoplasma gondi IgG,Toxoplasma IgG Rapid Test
+Toxoplasma gondi IgM,,TORCH Rapid Test,Biolab,Toxoplasma gondi IgM,Toxoplasma IgM Rapid Test
+Toxoplasma IgG,IU/Ml,TORCH,Biolab,Toxoplasma IgG,Toxoplasma IgG
+Toxoplasma IgG,IU/Ml,TORCH,Hawkari,Toxoplasma IgG,Toxoplasma IgG
+Toxoplasma IgM,IU/Ml,TORCH,Biolab,Toxoplasma IgM,Toxoplasma IgM
+Toxoplasma IgM,IU/Ml,TORCH,Hawkari,Toxoplasma IgM,Toxoplasma IgM
+Transferrin,mg/dl,Iron State,Hawkari,Transferrin,Transferrin
+Transferrin Saturation,%,Iron Profile,Biolab,Transferrin Saturation,Transferrin Saturation
+Transferrin Saturation ( TS ),%,Iron State,Hawkari,Transferrin Saturation ( TS ),Transferrin Saturation
+Triglyceride,mg/dl,Lipid Profile ,Darugha,Triglycerides,Triglycerides
+Triglyceride,mg/dl,Lipid Profile ,Hawkari,Triglycerides,Triglycerides
+Triiodothyronine (T3),pmol/L,Thyroid Function Test,Hawkari,Triiodothyronine (T3),Triiodothyronine (T3)
+Troponin T hs Stat,pg/ml,Cardiac Markers,Biolab,Troponin T hs Stat,High-Sensitivity Troponin T
+Troponin T hs Stat,pg/ml,Cardiac Markers,Hawkari,Troponin T hs Stat,High-Sensitivity Troponin T
+TSH,µIU/ML,Thyroid Function Test,Biolab,TSH,Thyroid-Stimulating Hormone
+TSH,µIU/ML,Thyroid Function Test,Darugha,TSH,Thyroid-Stimulating Hormone
+TSH,µIU/ML,Thyroid Function Test,Hawkari,TSH,Thyroid-Stimulating Hormone
+TSH Receptor Ab,mIU/ml,Thyroid Function Test,Biolab,TSH Receptor Ab,TSH Receptor Antibody
+TSH Receptor Ab,mIU/ml,Thyroid Function Test,Hawkari,TSH Receptor Ab,TSH Receptor Antibody
+TTG IgA,IU/Ml,Celiac Disease,Biolab,TTG IgA,Tissue Transglutaminase IgA
+TTG IgA,IU/Ml,Celiac Disease,Hawkari,TTG IgA,Tissue Transglutaminase IgA
+TTG IgG,IU/Ml,Celiac Disease,Biolab,TTG IgG,Tissue Transglutaminase IgG
+TTG IgG,IU/Ml,Celiac Disease,Hawkari,TTG IgG,Tissue Transglutaminase IgG
+Typhoid IgG,,Serology Test,Biolab,Typhoid IgG,Typhoid IgG
+Typhoid IgG,,Serology Test,Darugha,Typhoid IgG,Typhoid IgG
+Typhoid IgG,,Serology Test,Hawkari,Typhoid IgG,Typhoid IgG
+Typhoid IgM,,Serology Test,Biolab,Typhoid IgM,Typhoid IgM
+Typhoid IgM,,Serology Test,Darugha,Typhoid IgM,Typhoid IgM
+Typhoid IgM,,Serology Test,Hawkari,Typhoid IgM,Typhoid IgM
+UIBC,µg/dl,Iron Profile,Biolab,UIBC,Unsaturated Iron-Binding Capacity
+UIBC,µg/dl,Iron State,Hawkari,UIBC,Unsaturated Iron-Binding Capacity
+Urea Breath Test,,Bacteria Infection,Biolab,Urea Breath Test,Urea Breath Test
+Urea Breath Test,,Bacteria Infection,Hawkari,Urea Breath Test,Urea Breath Test
+Urea nitrogen ( BUN ),mg/dl,Renal Function Test,Hawkari,BUN (Blood Urea Nitrogen),Blood Urea Nitrogen
+urine albumin,mg/l,Biochemical Test,Hawkari,urine albumin,Urine Albumin
+urine creatinine,mg/dl,Biochemical Test,Hawkari,urine creatinine,Urine Creatinine
+Urine Culture,,Culture & Sensetive,Biolab,Urine Culture,Urine Culture
+Urine Volume ( mililiter ),ml/24 Hrs,Renal Function Test,Hawkari,Urine Volume ( mililiter ),24-Hour Urine Volume
+Vitamin D3,ng/ml,Vitamins Test,Biolab,Vitamin D (25-OH),Vitamin D3
+Vitamin D3,ng/ml,Vitamins Test,Darugha,Vitamin D (25-OH),Vitamin D3
+Vitamin D3,ng/ml,Vitamins Test,Hawkari,Vitamin D (25-OH),Vitamin D3
+Vitamine B12,pg/ml,Vitamins Test,Biolab,Vitamin B12,Vitamin B12
+Vitamine B12,pmol/L,Vitamins Test,Hawkari,Vitamin B12,Vitamin B12
+WBC,cell/mm3,Heamatology Test,Biolab,WBC,White Blood Cell Count
