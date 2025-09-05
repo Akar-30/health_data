@@ -1,0 +1,9 @@
+Test 1,Test 2,Total Patients,Test 1 Abnormal %,Test 2 Abnormal %,Both Tests Abnormal %,Both Tests Normal %,Mixed Results %,Both_Abnormal_Numeric,Both_Normal_Numeric,Mixed_Numeric,Test1_Abnormal_Numeric,Test2_Abnormal_Numeric,Test1_Balance_Score,Test2_Balance_Score,Combined_Balance_Score
+Serum Triglycerides,Serum HDL Cholesterol,1580,57.1%,38.0%,26.0%,37.4%,36.6%,26.0,37.4,36.6,57.1,38.0,92.9,88.0,90.45
+Serum Triglycerides,Serum LDL Cholesterol,1903,57.4%,68.6%,39.9%,19.7%,40.4%,39.9,19.7,40.4,57.4,68.6,92.6,81.4,87.0
+Serum HDL Cholesterol,Serum LDL Cholesterol,1602,37.9%,68.7%,23.6%,19.0%,57.4%,23.6,19.0,57.4,37.9,68.7,87.9,81.3,84.6
+Blood Urea Nitrogen,Serum Creatinine,2870,68.8%,36.1%,18.6%,18.6%,62.7%,18.6,18.6,62.7,68.8,36.1,81.2,86.1,83.65
+TSH,Serum Creatinine,3779,29.5%,36.8%,9.1%,48.8%,42.1%,9.1,48.8,42.1,29.5,36.8,79.5,86.8,83.15
+HbA1c,TSH,1538,76.6%,32.6%,20.5%,20.9%,58.6%,20.5,20.9,58.6,76.6,32.6,73.4,82.6,78.0
+TSH,Vitamin D3,2610,28.1%,72.2%,15.4%,21.3%,63.3%,15.4,21.3,63.3,28.1,72.2,78.1,77.8,77.94999999999999
+TSH,Serum Ferritin,1843,31.5%,20.9%,4.8%,62.0%,33.2%,4.8,62.0,33.2,31.5,20.9,81.5,70.9,76.2

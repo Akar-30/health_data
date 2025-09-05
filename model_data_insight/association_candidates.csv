@@ -1,0 +1,8 @@
+Test 1,Test 2,Total Patients,Test 1 Abnormal %,Test 2 Abnormal %,Both Tests Abnormal %,Both Tests Normal %,Mixed Results %,Both_Abnormal_Numeric,Both_Normal_Numeric,Mixed_Numeric,Test1_Abnormal_Numeric,Test2_Abnormal_Numeric,Association_Score
+HbA1c,Serum Creatinine,1633,83.5%,35.5%,28.2%,13.0%,58.8%,28.2,13.0,58.8,83.5,35.5,49.14
+Serum Triglycerides,Serum LDL Cholesterol,1903,57.4%,68.6%,39.9%,19.7%,40.4%,39.9,19.7,40.4,57.4,68.6,48.129999999999995
+Serum HDL Cholesterol,Serum LDL Cholesterol,1602,37.9%,68.7%,23.6%,19.0%,57.4%,23.6,19.0,57.4,37.9,68.7,45.22
+Blood Urea Nitrogen,Serum Creatinine,2870,68.8%,36.1%,18.6%,18.6%,62.7%,18.6,18.6,62.7,68.8,36.1,44.39
+HbA1c,TSH,1538,76.6%,32.6%,20.5%,20.9%,58.6%,20.5,20.9,58.6,76.6,32.6,43.65
+TSH,Vitamin D3,2610,28.1%,72.2%,15.4%,21.3%,63.3%,15.4,21.3,63.3,28.1,72.2,42.43
+Serum Triglycerides,Serum HDL Cholesterol,1580,57.1%,38.0%,26.0%,37.4%,36.6%,26.0,37.4,36.6,57.1,38.0,36.5
