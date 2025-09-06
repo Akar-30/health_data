@@ -1,0 +1,31 @@
+Test 1,Test 2,Test 3,Total Patients,Test 1 Abnormal %,Test 2 Abnormal %,Test 3 Abnormal %,All 3 Abnormal %,All 3 Normal %,2+ Abnormal %,1 Abnormal %,All_Abnormal_Numeric,All_Normal_Numeric,Two_Plus_Abnormal_Numeric,One_Abnormal_Numeric
+Hepatitis B Surface Antigen,Hepatitis C Antibody,HIV Antibody,4843,0.2%,0.0%,0.0%,0.0%,99.8%,0.0%,0.2%,0.0,99.8,0.0,0.2
+TSH,Serum Creatinine,Blood Glucose,2898,28.3%,36.8%,0.0%,0.0%,48.9%,8.5%,42.6%,0.0,48.9,8.5,42.6
+Serum Creatinine,Total Serum Bilirubin,Blood Glucose,2880,36.7%,0.0%,0.0%,0.0%,64.0%,0.0%,36.0%,0.0,64.0,0.0,36.0
+TSH,Serum Creatinine,Total Serum Bilirubin,2171,27.2%,37.6%,0.0%,0.0%,48.5%,7.9%,43.6%,0.0,48.5,7.9,43.6
+TSH,Total Serum Bilirubin,Blood Glucose,2036,27.0%,0.0%,0.0%,0.0%,78.0%,0.0%,22.0%,0.0,78.0,0.0,22.0
+Serum Cholesterol,Serum Triglycerides,Serum LDL Cholesterol,1884,0.0%,57.5%,68.6%,0.0%,19.6%,40.1%,40.3%,0.0,19.6,40.1,40.3
+Serum Creatinine,Blood Glucose,C-Reactive Protein Titer,1703,35.8%,0.0%,0.0%,0.0%,65.6%,0.0%,34.4%,0.0,65.6,0.0,34.4
+Serum Cholesterol,Serum HDL Cholesterol,Serum LDL Cholesterol,1579,0.0%,37.9%,68.8%,0.0%,19.1%,23.7%,57.2%,0.0,19.1,23.7,57.2
+Serum Triglycerides,Serum HDL Cholesterol,Serum LDL Cholesterol,1573,57.1%,38.0%,68.6%,18.6%,14.7%,52.6%,32.6%,18.6,14.7,52.6,32.6
+Serum Cholesterol,Serum Triglycerides,Serum HDL Cholesterol,1572,0.0%,57.2%,38.1%,0.1%,37.3%,26.1%,36.6%,0.1,37.3,26.1,36.6
+Serum Creatinine,Aspartate Aminotransferase (AST),Alanine Aminotransferase (ALT),1354,28.9%,10.9%,9.5%,1.7%,62.7%,7.1%,30.2%,1.7,62.7,7.1,30.2
+HbA1c,Serum Creatinine,Blood Glucose,1208,84.8%,35.7%,0.0%,0.0%,11.8%,29.3%,58.9%,0.0,11.8,29.3,58.9
+Total Cholesterol,Triglycerides,LDL Cholesterol,1120,23.1%,58.6%,0.0%,0.0%,34.6%,15.5%,49.9%,0.0,34.6,15.5,49.9
+Aspartate Aminotransferase (AST),Alanine Aminotransferase (ALT),Alkaline Phosphatase,1111,13.8%,12.4%,15.5%,2.3%,75.0%,8.9%,16.1%,2.3,75.0,8.9,16.1
+Serum Creatinine,Serum Ferritin,Blood Glucose,1101,44.8%,22.3%,0.0%,0.0%,44.9%,9.6%,45.5%,0.0,44.9,9.6,45.5
+Serum Creatinine,Blood Glucose,LDL Cholesterol,1088,28.1%,0.0%,0.0%,0.0%,72.2%,0.0%,27.8%,0.0,72.2,0.0,27.8
+Serum Creatinine,Total Serum Bilirubin,C-Reactive Protein Titer,1072,37.1%,0.0%,0.0%,0.0%,65.3%,0.0%,34.7%,0.0,65.3,0.0,34.7
+Aspartate Aminotransferase (AST),Alanine Aminotransferase (ALT),Total Serum Bilirubin,1060,14.3%,12.1%,0.0%,0.0%,84.2%,6.6%,9.2%,0.0,84.2,6.6,9.2
+TSH,Total Cholesterol,LDL Cholesterol,1048,25.6%,23.0%,0.0%,0.0%,61.7%,5.1%,33.2%,0.0,61.7,5.1,33.2
+Blood Glucose,Total Cholesterol,LDL Cholesterol,1041,0.0%,21.9%,0.0%,0.0%,78.9%,0.0%,21.1%,0.0,78.9,0.0,21.1
+TSH,Serum Creatinine,Serum Ferritin,1039,32.4%,43.9%,22.2%,1.9%,34.0%,20.2%,45.8%,1.9,34.0,20.2,45.8
+Hepatitis B Surface Antigen,Hepatitis C Antibody,Blood Glucose,1035,0.1%,0.0%,0.0%,0.0%,99.9%,0.0%,0.1%,0.0,99.9,0.0,0.1
+Hepatitis B Surface Antigen,HIV Antibody,Blood Glucose,1034,0.1%,0.0%,0.0%,0.0%,99.9%,0.0%,0.1%,0.0,99.9,0.0,0.1
+Hepatitis C Antibody,HIV Antibody,Blood Glucose,1034,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0,100.0,0.0,0.0
+Total Serum Bilirubin,Blood Glucose,C-Reactive Protein Titer,1031,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0,100.0,0.0,0.0
+TSH,Serum Ferritin,Blood Glucose,1027,29.3%,21.7%,0.0%,0.0%,62.3%,3.8%,33.9%,0.0,62.3,3.8,33.9
+Serum Creatinine,Total Cholesterol,LDL Cholesterol,1024,28.0%,23.0%,0.0%,0.0%,56.4%,6.7%,36.8%,0.0,56.4,6.7,36.8
+TSH,Serum Creatinine,C-Reactive Protein Titer,1013,29.8%,37.1%,0.0%,0.0%,49.7%,9.7%,40.7%,0.0,49.7,9.7,40.7
+TSH,Serum Creatinine,LDL Cholesterol,1004,24.8%,29.4%,0.0%,0.0%,55.7%,5.6%,38.7%,0.0,55.7,5.6,38.7
+Blood Urea Nitrogen,Serum Creatinine,Blood Glucose,1003,73.0%,34.2%,0.0%,0.0%,17.4%,18.4%,64.1%,0.0,17.4,18.4,64.1
