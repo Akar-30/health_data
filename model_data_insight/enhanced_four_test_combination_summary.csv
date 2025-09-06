@@ -1,0 +1,4 @@
+Test 1,Test 2,Test 3,Test 4,Total Patients,Test 1 Abnormal %,Test 2 Abnormal %,Test 3 Abnormal %,Test 4 Abnormal %,All 4 Abnormal %,All 4 Normal %,3+ Abnormal %,2 Abnormal %,1 Abnormal %,All_Abnormal_Numeric,All_Normal_Numeric,Three_Plus_Abnormal_Numeric,Two_Abnormal_Numeric,One_Abnormal_Numeric
+TSH,Serum Creatinine,Total Serum Bilirubin,Blood Glucose,1956,27.1%,38.3%,0.0%,0.0%,0.0%,47.9%,0.0%,7.9%,44.3%,0.0,47.9,0.0,7.9,44.3
+Serum Cholesterol,Serum Triglycerides,Serum HDL Cholesterol,Serum LDL Cholesterol,1568,0.0%,57.1%,38.0%,68.7%,0.0%,14.7%,18.7%,33.9%,32.7%,0.0,14.7,18.7,33.9,32.7
+Hepatitis B Surface Antigen,Hepatitis C Antibody,HIV Antibody,Blood Glucose,1034,0.1%,0.0%,0.0%,0.0%,0.0%,99.9%,0.0%,0.0%,0.1%,0.0,99.9,0.0,0.0,0.1
